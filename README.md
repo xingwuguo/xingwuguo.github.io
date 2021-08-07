@@ -6,4 +6,4 @@ github website.
 
 try it.
 
-why does not work?
+why it does not work?
