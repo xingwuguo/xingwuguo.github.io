@@ -1,4 +1,4 @@
-# xingwuguo.githuh.io
+# xingwuguo.github.io
 
 github pagees.
 
