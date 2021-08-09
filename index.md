@@ -63,9 +63,5 @@ Serial number;	Patent number;	Patent name;	 Authorization date
 10.	CN1167834C	**"Preparation method of uniform polyaniline film on magnesium alloy surface"**.	2004.09.22
 
 
-
-
-
-[![School of Materials Science and Engineering](/icloud drive/documents/github/SMES.gif)](https://smse.sjtu.edu.cn) 
-
-[![Shanghai Jiao Tong University](/icloud drive/documents/github/SJTU.gif)](https://www.sjtu.edu.cn)
+[![School of Materials Science and Engineering](images/SMES.gif)](https://smse.sjtu.edu.cn) 
+[![Shanghai Jiao Tong University](images/SJTU.jpeg)](https://www.sjtu.edu.cn)
