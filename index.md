@@ -1,4 +1,4 @@
-# Welcome to xingwuguo's pages
+# Welcome to Xingwug Guo's pages
 ## Xingwu Guo
 Associate Professor of School of Materials Science and Engineering  
 Shanghai Jiao Tong University  
@@ -12,14 +12,10 @@ Materials Chemistry; Electrochemistry; Electronic Materials; Nanotechnology; Pla
 
 ## Research Areas
 
-Current main research areas: 
-
+Current main research areas:
 1) Nanoporous gasochromic films from Block Copolymer Precursors.
-
 2) Functional polymer films fabricated by Plasma polymerization.
-
 3) Microporous polymer film prepared by 3D printing methods and ion. beam etching
-
 4) Surface modification and coating technology for light metals (such as Al, Mg, Ti).
 
 
