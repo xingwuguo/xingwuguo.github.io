@@ -15,7 +15,7 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
     {% if site.lang == "cn" %}
-    <a class="site-title" rel="author" href="{{ "/主页" | relative_url }}">{{ site.title[site.lang] | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title[site.lang] | escape }}</a>
     {% else %}
     <a class="site-title" rel="author" href="{{ "/index" | relative_url }}">{{ site.title[site.lang] | escape }}</a>
     {% endif %}
