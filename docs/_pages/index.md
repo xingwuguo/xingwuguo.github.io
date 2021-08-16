@@ -4,8 +4,8 @@
 
 layout: home
 namespace: index
-permalink: /index/
-permalink_cn: /主页/
+permalink: /
+permalink_cn: /
 ---
 
 {% translate_file index.md %}
