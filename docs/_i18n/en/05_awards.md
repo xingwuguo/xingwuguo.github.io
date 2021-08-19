@@ -1,7 +1,7 @@
 #### Research Awards:
 1. Paper, "New Development Trend of Surface Treatment Technology for Magnesium Alloys", Awarded Highly Cited Paper in Journal of Surface Technology Journal (Article in Chinese), Dec., 2019.  
-2. Paper,"Electrodeposition of Ni-Mn Films of High Corrosion Resistance at Room Temperature in Ionic Liquids" awarded Frontrunner 5000 (F5000), Top articles in outstanding S&T journals of China. Nov., 2018.
-3. China Non-ferrous Industry Science Technology Award (2014), Ranked 1st in the Second Class (one of multiple classes and tracks?) Technical name: “The development and its surface treatment of low cost, high strength and anti-corrosion magnesium alloys”.
+2. Paper, "Electrodeposition of Ni-Mn Films of High Corrosion Resistance at Room Temperature in Ionic Liquids" awarded Frontrunner 5000 (F5000), Top articles in outstanding S&T journals of China. Nov., 2018.
+3. China Non-ferrous Industry Science Technology Award (2014), Ranked 1st in the Second Class (one of multiple classes and tracks) Technical name: “The development and its surface treatment of low cost, high strength and anti-corrosion magnesium alloys”.
 4. First Prize of Science and Technology of Shanghai (2013), Ranked 8th, Technical name: “High strength heat-resistant magnesium alloy material and its application in the field of aerospace technology development”.
 5. First Prize of Science and Technology of Shanghai (2010), Ranked 6th, Technical name: “Shape control and property control integrated high strength toughened rare earth magnesium alloy and its application technology development”.
 6. Second Prize of Technology Invention Award of the Ministry of Education (2010), Ranked 6th, Technical name: “Development of high strength magnesium rare earth alloy”.
