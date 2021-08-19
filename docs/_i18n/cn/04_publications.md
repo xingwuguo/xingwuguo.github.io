@@ -1,4 +1,4 @@
-### 已发表论文
+#### 已发表论文
 [1]. Jiacheng Guo, Xingwu Guo, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng,Wenjiang Dinga, **"Effective strategy for improving infrared emissivity of Zn-Ni porous coating"**, Applied Surface Science 485 (2019) 92–100.
 
 [2]. Jiacheng Guo, Xingwu Guo⁎, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng;Wenjiang Ding; **"Influence of sodium dodecyl sulphate on the surface morphology and infrared emissivity of porous Ni film"**. Infrared Physics and Technology 93 (2018) 162–170., Impact Factor: 2.006.
@@ -40,7 +40,7 @@
 [20]. Wang, X. S.; Guo, X. W.; Li, X. D.; Ge, D. Y., **"Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology"**. Materials 2014, 7 (5), 3533-3546.
 
 
-### 已出版专著
+#### 已出版专著
 1.《先进材料化学》   
       －材料科学与工程前沿文库  
       －“十二五”国家重点图书出版规划项目  

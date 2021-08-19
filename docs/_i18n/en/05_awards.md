@@ -1,4 +1,4 @@
-### Research Awards:
+#### Research Awards:
 1. Paper, "New Development Trend of Surface Treatment Technology for Magnesium Alloys", Awarded Highly Cited Paper in Journal of Surface Technology Journal (Article in Chinese), Dec., 2019.  
 2. Paper,"Electrodeposition of Ni-Mn Films of High Corrosion Resistance at Room Temperature in Ionic Liquids" awarded Frontrunner 5000 (F5000), Top articles in outstanding S&T journals of China. Nov., 2018.
 3. China Non-ferrous Industry Science Technology Award (2014), Ranked 1st in the Second Class (one of multiple classes and tracks?) Technical name: “The development and its surface treatment of low cost, high strength and anti-corrosion magnesium alloys”.
@@ -13,7 +13,7 @@
 12. Excellent Faculty Award (2002), Rank 1st by Shanghai Jiao Tong University.
 13. Excellent Faculty Award (2001), Rank 1st by Shanghai Jiao Tong University.
 
-### Teaching Awards
+#### Teaching Awards
 1. In 2012, one of 10 faculty members awarded the "Top 10 most Popular Teachers" of School of Materials Science and Engineering,Shanghai Jiao Tong University.
 2. First Prize of 2005-2006 Excellent Teacher of Shanghai Jiao Tong University.
 

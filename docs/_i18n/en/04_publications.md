@@ -1,4 +1,4 @@
-### Published Journals
+#### Published Journals
 [1]. Jiacheng Guo, Xingwu Guo, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng,Wenjiang Dinga, **"Effective strategy for improving infrared emissivity of Zn-Ni porous coating"**, Applied Surface Science 485 (2019) 92–100.
 
 [2]. Jiacheng Guo, Xingwu Guo⁎, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng;Wenjiang Ding; **"Influence of sodium dodecyl sulphate on the surface morphology and infrared emissivity of porous Ni film"**. Infrared Physics and Technology 93 (2018) 162–170., Impact Factor: 2.006.
@@ -40,9 +40,9 @@
 [20]. Wang, X. S.; Guo, X. W.; Li, X. D.; Ge, D. Y., **"Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology"**. Materials 2014, 7 (5), 3533-3546.
 
 
-### Monographs, Translations and Textbooks
-[1]. Xingwu Guo, Chief Editor, Advanced Materials Chemistry,	Shanghai Jiao Tong University Press, 2013,ISBN978-7-313-08944-1/TB	A Translation of Materials Science and Engineering Frontier Library.
+#### Monographs, Translations and Textbooks
+[1]. Xingwu Guo, Chief Editor, Advanced Materials Chemistry, Shanghai Jiao Tong University Press, 2013,ISBN978-7-313-08944-1/TB	A Translation of Materials Science and Engineering Frontier Library.
 
-[2]	Xingwu Guo, Associate Editors-in-Chief, Modern Surface Technology,	Shanghai Jiao Tong University Press, ISBN978-7-313-08256-5/TG, 2012, A Series of Textbook for Materials Science and Engineering Discipline.	
+[2]	Xingwu Guo, Associate Editors-in-Chief, Modern Surface Technology, Shanghai Jiao Tong University Press, ISBN978-7-313-08256-5/TG, 2012, A Series of Textbook for Materials Science and Engineering Discipline.	
 
 [3] Xingwu Guo, Author of Chapter 11 Corrosion and Protection of Magnesium Alloys, Magnesium Science and Technology, Science Press	ISBN978-7-03-018163-3, 2007, High Performance Structural Materials Technology Series.
