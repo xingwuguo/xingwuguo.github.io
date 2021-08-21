@@ -9,12 +9,9 @@
 8. Second Prize of National Defense Science and Technology Award (2006), Ranked 7th, Technical name: “High strength magnesium alloy and its application in national defense industry”.
 9. Second Prize Of National Science and Technology Progress Award (2003), Ranked 8th, Technical name: “Research on flame retardant magnesium alloy and its application key technology”.
 10. Second Prize of National Excellent Academic Achievement Award (2002), Ranked 1st, Technical name: “Research and development status of anodization of magnesium alloy”.
-11. Excellent Faculty Award (2005), Rank 1st by Shanghai Jiao Tong University.
-12. Excellent Faculty Award (2002), Rank 1st by Shanghai Jiao Tong University.
-13. Excellent Faculty Award (2001), Rank 1st by Shanghai Jiao Tong University.
 
 #### Teaching Awards
-1. In 2012, one of 10 faculty members awarded the "Top 10 most Popular Teachers" of School of Materials Science and Engineering,Shanghai Jiao Tong University.
+1. "Top 10 Most Popular Teachers" of School of Materials Science and Engineering, Shanghai Jiao Tong University. 2012/1/8.
 2. First Prize of 2005-2006 Excellent Teacher of Shanghai Jiao Tong University.
 
 
