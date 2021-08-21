@@ -9,9 +9,9 @@
 
 [5]. Wenbin Xu, Jiacheng Guo, Zhichen Zhang, Rongyu Zhu, Zhengbo Wang, Haoming Xi, Jian Li, Xingwu Guo*, **"Porous nickel coating with both high infrared radiation rate and high conductivity"**. Functional Materials, 2017,7(48), 07109-07114. (In Chinese)
 
-[6].Zhichen Zhang, Jiachen Guo, Wenbin Xu, Lewen Nie, Leichao Gong, Xingwu Guo*, Wenjiang Ding. **"Electrodeposition of Ni-Mn films of high corrosion resistance at room temperature in ionic liquids"**. Surface Technology, 3(26), 2017, 66-71. (In Chinese)
+[6]. Zhichen Zhang, Jiachen Guo, Wenbin Xu, Lewen Nie, Leichao Gong, Xingwu Guo*, Wenjiang Ding. **"Electrodeposition of Ni-Mn films of high corrosion resistance at room temperature in ionic liquids"**. Surface Technology, 3(26), 2017, 66-71. (In Chinese)
 
-[7].Jiachen Guo, Wenbin Xu, Zhichen Zhang, Lewen Nie, Leichao Gong, Ji Dong, Xingwu Guo*, **"Preparation of high infrared emissivity and electrical conductivity coating on magnesium alloy"**. Surface Technology, 3(26), 2017, 47-52. (In Chinese)
+[7]. Jiachen Guo, Wenbin Xu, Zhichen Zhang, Lewen Nie, Leichao Gong, Ji Dong, Xingwu Guo*, **"Preparation of high infrared emissivity and electrical conductivity coating on magnesium alloy"**. Surface Technology, 3(26), 2017, 47-52. (In Chinese)
 
 [8]. Jiacheng Guo, Xingwu Guo∗, Wenbin Xu, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding. **"A Zn-Ni coating with both high electrical conductivity and infrared emissivity prepared by hydrogen evolution method"**. Applied Surface Science 402 (2017) 92–98.
 
@@ -19,7 +19,7 @@
 
 [10]. Kai Feng, Xingwu Guo*, Zhuguo Li, Chengwu Yao,Yixiong Wu. **"Investigation of multi-coating process treated magnesium alloy as bipolar plate in polymer electrolyte membrane fuel cell"**. International Journal of Hydrogen Energy 41 (2016) 6020-6028.
 
-[11] Xingwu Guo*, Jiacheng Guo, Jie Dong, Shaohua Wang, Jia Gong, Rongyu Zhu, Wenjiang Ding. **"An Electrodeposition Method for Preparing (Cu-Ni) /(Ni-Cu) Multilayers on Magnesium Alloy from Ionic Liquid"**. Advanced Materials,TechConnect Briefs June 14-17, 2015,Wahington DC. Proceedings of the 2015 TechConnect World Innovation Conference & Expo.page456-459. ISBN 978-1-4987-4727-1. 
+[11]. Xingwu Guo*, Jiacheng Guo, Jie Dong, Shaohua Wang, Jia Gong, Rongyu Zhu, Wenjiang Ding. **"An Electrodeposition Method for Preparing (Cu-Ni) /(Ni-Cu) Multilayers on Magnesium Alloy from Ionic Liquid"**. Advanced Materials,TechConnect Briefs June 14-17, 2015,Wahington DC. Proceedings of the 2015 TechConnect World Innovation Conference & Expo.page456-459. ISBN 978-1-4987-4727-1. 
 
 [12]. Yan Mao, Zhuguo Li, Kai Feng, Xingwu Guo, Zhifeng Zhou, Jie Dong, Yixiong Wu; Preparation, **"characterization and wear behavior of carbon coated magnesium alloy with electroless plating nickel interlayer"**. Applied Surface Science 327 (2015) 100–106.
 
@@ -46,13 +46,13 @@
       －“十二五”国家重点图书出版规划项目  
 翻译：郭兴伍，赵斌元，胡晓彬，冯传良，窦红静，仵亚婷，邓意达，刘庆雷  
 主审：郭兴伍  
-上海交通大学出版社出版；2013年1月第一版；ISBN978-7-313-08944-1/TB;  
+上海交通大学出版社出版；2013年1月第一版；ISBN978-7-313-08944-1/TB
 
 2.《现代表面工程》  
        －材料科学与工程学科系列教材  
 主　编：钱苗根  
 副主编：郭兴伍  
-上海交通大学出版社出版；2012年9月第一版；ISBN978-7-313-08256-5/TG；  
+上海交通大学出版社出版；2012年9月第一版；ISBN978-7-313-08256-5/TG
 
 3.《镁合金科学与技术》    
 －高性能结构材料技术丛书  

@@ -2,7 +2,6 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-
     <div class="footer-col-wrapper">
       <!-- <div class="footer-col">
         <p class="feed-subscribe">
@@ -23,19 +22,20 @@
         </ul>
       {%- endif %}
       </div> -->
+
       <div class="footer-col">
         {% if site.lang == "cn" %}
         <p>{{ site.description.cn | escape }}</p>
         {% else %}
         <p>{{ site.description.en | escape }}</p>
         {% endif %}
+        ©2021 All Rights Reserved.
       </div>
     </div>
 
     <!-- <div class="social-links">
       {%- include social.html -%}
     </div> -->
-
   </div>
 
 </footer>
