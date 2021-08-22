@@ -11,6 +11,6 @@
 **热门资源链接：**
 1. [上海交通大学材料科学与工程学院](https://smse.sjtu.edu.cn/)
 2. [上海交通大学](https://www.sjtu.edu.cn/)
-3. [Cornell University](https://www.cornell.edu/about)
+<!---3. [Cornell University](https://www.cornell.edu/about)--->
 
 

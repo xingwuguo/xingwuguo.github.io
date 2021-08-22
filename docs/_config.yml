@@ -56,7 +56,7 @@ plugins:
 
 languages: ["cn", "en"]
 language_names:
-  cn: 中文/
+  cn: 中文
   en: English version
 
 include: ["_pages"]
