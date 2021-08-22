@@ -56,8 +56,8 @@ plugins:
 
 languages: ["cn", "en"]
 language_names:
-  cn: 中文
-  en: English
+  cn: 中文/
+  en: English version
 
 include: ["_pages"]
 # Exclude from processing.
