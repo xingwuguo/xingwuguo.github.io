@@ -1,7 +1,7 @@
 #### Published Journals
-[1]. Jiacheng Guo, Xingwu Guo, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng,Wenjiang Dinga, **"Effective strategy for improving infrared emissivity of Zn-Ni porous coating"**, Applied Surface Science 485 (2019) 92–100.
+[1]. Jiacheng Guo, Xingwu Guo, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng, Wenjiang Dinga, **"Effective strategy for improving infrared emissivity of Zn-Ni porous coating"**, Applied Surface Science 485 (2019) 92–100.
 
-[2]. Jiacheng Guo, Xingwu Guo⁎, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng;Wenjiang Ding; **"Influence of sodium dodecyl sulphate on the surface morphology and infrared emissivity of porous Ni film"**. Infrared Physics and Technology 93 (2018) 162–170., Impact Factor: 2.006.
+[2]. Jiacheng Guo, Xingwu Guo⁎, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng, Wenjiang Ding; **"Influence of sodium dodecyl sulphate on the surface morphology and infrared emissivity of porous Ni film"**. Infrared Physics and Technology 93 (2018) 162–170., Impact Factor: 2.006.
 
 [3]. Yu Huang, Yishi Su, Xingwu Guo, Qiang Guo, Qiubao Ouyang*, Guoding Zhang, Di Zhang; **"Fabrication and thermal conductivity of copper coated graphite film/aluminum composites for effective thermal management"**. Journal of Alloys and Compounds 711 (2017) 22~30.
 

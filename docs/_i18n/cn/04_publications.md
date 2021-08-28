@@ -1,7 +1,7 @@
 #### 已发表论文
-[1]. Jiacheng Guo, Xingwu Guo, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng,Wenjiang Dinga, **"Effective strategy for improving infrared emissivity of Zn-Ni porous coating"**, Applied Surface Science 485 (2019) 92–100.
+[1]. Jiacheng Guo, Xingwu Guo, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng, Wenjiang Dinga, **"Effective strategy for improving infrared emissivity of Zn-Ni porous coating"**, Applied Surface Science 485 (2019) 92–100.
 
-[2]. Jiacheng Guo, Xingwu Guo⁎, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng;Wenjiang Ding; **"Influence of sodium dodecyl sulphate on the surface morphology and infrared emissivity of porous Ni film"**. Infrared Physics and Technology 93 (2018) 162–170., Impact Factor: 2.006.
+[2]. Jiacheng Guo, Xingwu Guo⁎, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng, Wenjiang Ding; **"Influence of sodium dodecyl sulphate on the surface morphology and infrared emissivity of porous Ni film"**. Infrared Physics and Technology 93 (2018) 162–170., Impact Factor: 2.006.
 
 [3]. Yu Huang, Yishi Su, Xingwu Guo, Qiang Guo, Qiubao Ouyang*, Guoding Zhang, Di Zhang; **"Fabrication and thermal conductivity of copper coated graphite film/aluminum composites for effective thermal management"**. Journal of Alloys and Compounds 711 (2017) 22~30.
 
@@ -55,7 +55,6 @@
 上海交通大学出版社出版；2012年9月第一版；ISBN978-7-313-08256-5/TG
 
 3.《镁合金科学与技术》    
-－高性能结构材料技术丛书  
-
+－高性能结构材料技术丛书 <br/>
 第11章 镁合金腐蚀与防护　　作者  
 科学出版社出版；2007年1月第一版；ISBN978-7-03-018163-3  
