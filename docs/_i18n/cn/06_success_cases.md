@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -17,7 +16,7 @@ ul.demo {
     <li> <a target="right" href="../assets/成功案例/成功案例4-镁合金高耐蚀耐磨阳极氧化涂层技术.pdf">案例4: 镁合金高耐蚀耐磨阳极氧化涂层技术</a> </li>
   </ul>
 
-<iframe src="blank.html" name="right" width="1000" height="1000"></iframe>
+<iframe src="../assets/成功案例/成功案例1-镁合金徽章制作技术.pdf" name="right" width="1000" height="800"></iframe>
 
 </body>
 </html>

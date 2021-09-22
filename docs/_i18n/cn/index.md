@@ -1,2 +1,11 @@
-<center><font color="red" size="4">欢迎访问郭兴伍的个人网站! 本网站正在建设之中.....</font></center>   
-<center> <img src="../assets/images/交大风景0.png" width="1000" height="500" border="" alt="上海交通大学风景" /></center><br>
+<center><font color="blue" size="5">表面科学与薄膜技术期刊</font></center>   
+
+
+<img src="../assets/images/appliedsurfacescience.gif" alt="" width="260" height="200">
+<img src="../assets/images/surfacescience.jpeg" alt="" width="260" height="200">
+<img src="../assets/images/surfacescience1.jpeg" alt="" width="260" height="200">
+<img src="../assets/images/thinsolidfilm.jpeg" alt="" width="260" height="200">
+<img src="../assets/images/surfaceandcoatingstechnology.jpeg" alt="" width="260" height="200">
+<img src="../assets/images/sol-gel.jpeg" alt="" width="260" height="200">
+<img src="../assets/images/surfacescienceandcatalysis.jpeg" alt="" width="260" height="200">
+<img src="../assets/images/advanced-functional-materials.jpeg" alt="" width="260" height="200">

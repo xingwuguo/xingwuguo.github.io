@@ -6,10 +6,17 @@
 通过完成各科研项目的研究任务，实验室已取得中国授权发明专利10项；获得国家及省部级奖8项；拥有自主知识产权的可转移技术成果4项：（1）镁合金产品表面高导电高耐腐蚀膜层制备技术；（2）镁合金产品表面高性能耐腐蚀“协和涂层”技术；（3）铝合金快速硬质阳极氧化技术；（4）高红外发射率高导电率热控涂层技术。这些技术和成果已在导弹战斗部、雷达天线、光发射器、燃料电池气缸等产品上得到实际应用。
 
 **试验装备**
-![实验装备](../assets/images/电化学工作站.jpg)
+<!-- ![实验装备](../assets/images/电化学工作站.jpg)
 ![实验装备](../assets/images/电镀电源.jpg) 
 ![实验装备](../assets/images/紫外激光刻蚀机.jpeg)
-![实验装备](../assets/images/PVD.jpg)
+![实验装备](../assets/images/PVD.jpg) -->
+
+<img src="../assets/images/电化学工作站.jpg" alt="" width="260" height="200">
+<img src="../assets/images/电镀电源.jpg" alt="" width="260" height="200">
+<img src="../assets/images/紫外激光刻蚀机.jpg" alt="" width="260" height="200">
+<img src="../assets/images/PVD.jpg" alt="" width="260" height="200">
+
+
 
 **相关资源链接：**
 1. [上海交通大学材料科学与工程学院](https://smse.sjtu.edu.cn/)
