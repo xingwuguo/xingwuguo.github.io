@@ -14,7 +14,7 @@
 <img src="../assets/images/电化学工作站.jpg" alt="" width="260" height="200">
 <img src="../assets/images/电镀电源.jpg" alt="" width="260" height="200">
 <img src="../assets/images/紫外激光刻蚀机.jpg" alt="" width="260" height="200">
-<img src="../assets/images/PVD.jpg" alt="" width="260" height="200">
+<img src="../assets/images/pvd.jpg" alt="" width="260" height="200">
 
 
 
