@@ -8,7 +8,7 @@ Email: xingwuguo@sjtu.edu.cn
 
 <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=1a3c89ddb9bcfaf5b9dc4b62e3f2a05b"></script>
 
-<div style="width:800px; height:360px; borders:1px;solid gary;margin-top:15px;" id ="container"></div>
+<div style="width:1100px; height:400px; borders:1px;solid gary;margin-top:15px;" id ="container"></div>
 
 <script type="text/javascript">
 
