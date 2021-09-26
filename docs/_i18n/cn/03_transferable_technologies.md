@@ -1,4 +1,11 @@
 
+<style>
+img {
+    border-radius: 12px;
+}
+</style>
+
+
 
 <div id="content" style="background-color:PapayaWhip;yellow;height:240px;width:250px;float:left;margin:6px;">
     <a href="../assets/可转移技术/1-镁合金产品表面高导电高耐腐蚀膜层制备技术.pdf"><center>1.镁合金产品表面高导电高耐腐蚀膜层制备技术</center><br>

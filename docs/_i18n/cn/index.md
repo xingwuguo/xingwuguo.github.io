@@ -8,4 +8,10 @@
 <img src="../assets/images/sol-gel.jpeg" alt="" width="260" height="200">
 <img src="../assets/images/surfacescienceandcatalysis.jpeg" alt="" width="260" height="200">
 <img src="../assets/images/advanced-functional-materials.jpeg" alt="" width="260" height="200"> -->
+<style>
+img {
+    border-radius: 14px;
+}
+</style>
+
 <img src="../assets/images/主页照片gxwphoto.jpg" alt="" width="1100" height="400">
