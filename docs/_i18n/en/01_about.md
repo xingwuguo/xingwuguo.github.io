@@ -5,14 +5,7 @@ The research fields of this laboratory mainly include: plasma chemical vapor dep
 
 By completing the research tasks of various scientific research projects, the laboratory has obtained 10 authorized invention patents in China; 8 national, provincial and ministerial awards; 4 transferable technological achievements with independent intellectual property rights: (1) High surface area of magnesium alloy products Conductive high corrosion resistance film preparation technology; (2) High-performance corrosion-resistant "Concord Coating" technology on the surface of magnesium alloy products; (3) Fast hard anodizing technology of aluminum alloy; (4) High infrared emissivity and high conductivity heat Control coating technology. These technologies and achievements have been practically applied to products such as missile warheads, radar antennas, optical transmitters, and fuel cell cylinders.
 
-<!-- **SJTU Map and directions**
-![SJTU map](../assets/images/SJTUmap.jpg)
- 
-**Links:**
-1. [School of Materials Science and Engineering](https://smse.sjtu.edu.cn/)
-2. [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)
--3. [Cornell University](https://www.cornell.edu/about)- -->
-
+**Experiment Equipment**
 <style>
 img {
     border-radius: 8px;
@@ -24,9 +17,7 @@ img {
 <img src="../assets/images/紫外激光刻蚀机.jpg" alt="" width="260" height="200">
 <img src="../assets/images/PVD.png" alt="" width="260" height="200">
 
-
-
-**Related links：**
+**Related links:**
 1. [School of Materials Science and Engineering](https://smse.sjtu.edu.cn/)
 2. [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)
 <!---3. [Cornell University](https://www.cornell.edu/about)--->
