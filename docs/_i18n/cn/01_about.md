@@ -1,5 +1,4 @@
 <style>
-p {text-indent:30px;}
 p {text-align:justify}
 </style>
 **使命与愿景**

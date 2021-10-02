@@ -114,10 +114,11 @@ div.desc {
         <a target="_blank" href="../assets/可转移技术/4-高红外发射率高导电率热控涂层技术.pdf">
         <img src="../assets/images/rekongtuceng.jpg" alt="图片文本描述" width="300" height="200">
         </a>
-        <div class="desc">
+        <div id="content">
         <a href="../assets/可转移技术/4-高红外发射率高导电率热控涂层技术.pdf">
         4-高红外发射率高导电率热控涂层技术
         </a>
     </div>
- </div> -->
+ </div> 
+ 以上四项技术成果可以进行交钥匙工程技术服务和技术转让。-->
 
