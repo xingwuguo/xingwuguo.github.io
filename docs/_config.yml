@@ -61,6 +61,7 @@ plugins:
   - jekyll-email-protect
   - jekyll-multiple-languages-plugin
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 languages: ["cn", "en"]
 language_names:

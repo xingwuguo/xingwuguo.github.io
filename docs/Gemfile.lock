@@ -228,6 +228,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-multiple-languages-plugin (~> 1.7.0)
   jekyll-seo-tag
+  jekyll-sitemap
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)
@@ -236,4 +237,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.25
+   2.2.29
