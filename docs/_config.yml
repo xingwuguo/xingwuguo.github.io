@@ -22,8 +22,12 @@ title:
   cn: 表面科学与薄膜技术实验室
   en: Surface Science & Film Technology Lab
 author:
-  name: 郭兴伍
+  name: 郭兴伍 Xingwu Guo
   email: xingwuguo@sjtu.edu.cn
+
+# Write an awesome description for your new site here. You can edit this
+# line in _config.yml. It will appear in your document head meta (for
+# Google search results) and in your feed.xml site description.
 description: 
   cn: >-
     镁合金微弧氧化;
@@ -46,10 +50,6 @@ description:
     Surface Modification; 
     Electrochemistry;
     Corrosion and Protection
-    
-# Write an awesome description for your new site here. You can edit this
-# line in _config.yml. It will appear in your document head meta (for
-# Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xingwuguo.github.io" # the base hostname &bun protocol for your site, e.g. http://example.com
 # github_username:  xingwuguo
