@@ -13,7 +13,7 @@
 | 7 | Shanghai Jiaotong University - Minhang District School Science and Technology Cooperation Project | Research and Development of Key Technologies for Lightweight and High Strength Magnesium Alloy Walkers for Decoration | 2008.09-2009.10 | 60,000 CNY | 1 |
 | 6 | National Defense Fund Project of Shanghai Jiaotong University | Exploration and Research on Electroplating of Magnesium Alloys in Room Temperature Ionic Liquids (07GFH-GB01-016) | 2007.11-2008.10 | 100,000 CNY | 1 |
 | 5 | National Natural Science Foundation of China Cooperation Project | In situ observation of grain boundaries and other microstructures by SEM on the fatigue failure mechanism of heat-resistant magnesium alloys\-Research on heat treatment process and corrosion resistance of magnesium alloys (50571047) | 2006.12-2008.12 | 10 million CNY | 1 |
-| 4 | National Security 973 Sub-Project | Research on Rare Earth Magnesium Alloy Surface Composite Protective Layer (5133003C) | 2005.12-2008.12 | 300,000 CNY | |
+| 4 | National Defense Fund Project | Research on Rare Earth Magnesium Alloy Surface Composite Protective Layer (5133003C) | 2005.12-2008.12 | 300,000 CNY | |
 | 3 | Shanghai Key Basic Research Project | Research on Corrosion Mechanism of High Strength Rare Earth Magnesium Alloy (Mg-RE) (06JC14038) | 2006.09-2008.08 | 200,000 CNY | 1 |
 | 2 | Aerospace Support Program Fund (Aerospace Science and Industry Group) | Research on Surface Coating Technology of High Performance Lightweight Magnesium Alloy Structural Materials (A12006120103) | 2005.10-2007.10 | 60,000 CNY | 1 |
 | 1 | Shanghai Key Science and Technology Project | Research and Development of Magnesium Alloy High Corrosion-resistant and Wear-resistant Anodized Coatings (025211106) | 2002.9-2004.9 | 200,000 CNY | 1 |
