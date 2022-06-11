@@ -7,7 +7,7 @@
 | 13 | National Natural Science Foundation of China | Applied Basic Research on Electrodeposition of Cu/Ni-Cu Nano-Multilayer Films in Single-bath Ionic Liquid on Mg-Al Alloy Surface (51371116) | 2013.09-2017.12 | 750,000 CNY | 1 |
 | 12 | Technology Innovation Fund of Aerospace Advanced Technology Joint Research Center | Research on Surface Treatment Technology of Magnesium-Based Alloys with High Infrared Emissivity and High Conductivity (USCAST2013-23) | 2014.01-2015.12 | 500,000 CNY | 1 |
 | 11 | National Commercial Aircraft Manufacturing Process Technology Research Center Innovation Fund Project | Ion-exchange membrane electrolyzer for micro-arc oxidation of aluminum alloy and its oxidation technology (SAMC11-JS-07-223) | 2011.01-2012.09 | 300,000 CNY | 1 |
-| 10 | General Motors (GM) | Alloy and Process Development for Cast Magnesium Wheels | July 1, 2011 to June 30, 2013 | USD50,000 | 1 |
+| 10 | General Motors (GM) | Alloy and Process Development for Cast Magnesium Wheels | 2011.7.1 to 2013.6.30 | USD50,000 | 1 |
 | 9 | Huawei Technologies Co., Ltd. | Magnesium Alloy Class B and Class C Environmental Anticorrosion Cooperation Project | 2009.12-2011.12 | 350,000 CNY | 1 |
 8 | 2008 Technical Standards Project of Shanghai Science and Technology Innovation Action Plan | Research on Anodizing Technology Standards for Adhesive Surface of Magnesium Alloy Parts for Aerospace Satellites (08DZ0501900) | 2008.09-2010.09 | 200,000 CNY | 1 |
 | 7 | Shanghai Jiaotong University - Minhang District School Science and Technology Cooperation Project | Research and Development of Key Technologies for Lightweight and High Strength Magnesium Alloy Walkers for Decoration | 2008.09-2009.10 | 60,000 CNY | 1 |
@@ -15,7 +15,7 @@
 | 5 | National Natural Science Foundation of China Cooperation Project | In situ observation of grain boundaries and other microstructures by SEM on the fatigue failure mechanism of heat-resistant magnesium alloys\-Research on heat treatment process and corrosion resistance of magnesium alloys (50571047) | 2006.12-2008.12 | 10 million CNY | 1 |
 | 4 | National Security 973 Sub-Project | Research on Rare Earth Magnesium Alloy Surface Composite Protective Layer (5133003C) | 2005.12-2008.12 | 300,000 CNY | |
 | 3 | Shanghai Key Basic Research Project | Research on Corrosion Mechanism of High Strength Rare Earth Magnesium Alloy (Mg-RE) (06JC14038) | 2006.09-2008.08 | 200,000 CNY | 1 |
-| 2 | Aerospace Support Program Fund (Aerospace Science and Industry Group) | Research on Surface Coating Technology of Military High Performance Lightweight Magnesium Alloy Structural Materials (A12006120103) | 2005.10-2007.10 | 60,000 CNY | 1 |
+| 2 | Aerospace Support Program Fund (Aerospace Science and Industry Group) | Research on Surface Coating Technology of High Performance Lightweight Magnesium Alloy Structural Materials (A12006120103) | 2005.10-2007.10 | 60,000 CNY | 1 |
 | 1 | Shanghai Key Science and Technology Project | Research and Development of Magnesium Alloy High Corrosion-resistant and Wear-resistant Anodized Coatings (025211106) | 2002.9-2004.9 | 200,000 CNY | 1 |
 
 |   | Mainly-involved Completed Projects | | | | Ranking |
