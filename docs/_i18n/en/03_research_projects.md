@@ -1,3 +1,5 @@
+#### Principally-investigated Projects
+
 |    | Project Source | Project Name | Start and End Years | Project Funds | Ranking |
 | -- | ----------------------- | ---------------------- ----------------------------------- | -------------- --------------- | ------------- | -- |
 | 17 | Ai Lifu (Shenzhen) Electronics Co., Ltd. | Research on single-sided electroplating and coating process development | 2021.6- 2022.6 | 950,000 CNY | 1 |
@@ -18,13 +20,15 @@
 | 2 | Aerospace Support Program Fund (Aerospace Science and Industry Group) | Research on Surface Coating Technology of High Performance Lightweight Magnesium Alloy Structural Materials (A12006120103) | 2005.10-2007.10 | 60,000 CNY | 1 |
 | 1 | Shanghai Key Science and Technology Project | Research and Development of Magnesium Alloy High Corrosion-resistant and Wear-resistant Anodized Coatings (025211106) | 2002.9-2004.9 | 200,000 CNY | 1 |
 
-|   | Mainly-involved Completed Projects | | | | Ranking |
-| - | --------------- |
-| 1 | 2009.08-2011.12 | Magnesium alloy engine key materials and system integration | National high-tech research plan (863 plan) | 9.07 million CNY | 6/17 |
-| 2 | 2009.09-2011.08 | Shanghai Magnesium Materials and Applied Engineering Technology Research Center | Shanghai Science and Technology Commission | 2 million CNY | 8/16 |
-| 3 | 2011.01-2015.12 | Research on new high-strength heat-resistant magnesium alloys | National Defense Fund Project | 2 million CNY | 10/18 |
-| 4 | 2006.10-2008.09 | Research on surface deformation strengthening of magnesium alloys | Shanghai Science and Technology Commission | 200,000 CNY |3/7 |
-| 5 | 2008.12-2010.09 | Application of Magnesium Alloy in New Energy Vehicles and Development of Manufacturing Process | Shanghai Automotive Industry Science and Technology Development Foundation | 400,000 CNY | 8/17 |
-| 6 | 2006.01-2009.12 | High-strength rare earth magnesium alloy and its precision forming | National Defense Science, Technology and Industry Committee | 2.4 million CNY | 4/13 |
-| 7 | 2004.10-2006.09 | Research on high-strength magnesium alloy and its typical auto parts backlog casting molding technology | Shanghai Science and Technology Commission | 5 million CNY | 6/10 |
-| 8 | 2004.06-2006.05 | Research on high-strength and high-toughness casting magnesium alloy and its auto parts forming technicians | Key projects of international scientific and technological cooperation | 6.24 million CNY | 5/9 |
+#### Mainly-involved Projects
+
+| | Project Source | Project Name | Start and End Years | Project Funds | Ranking |
+| -- | ----------------------- | ---------------------- ----------------------------------- | -------------- --------------- | ------------- | -- |
+| 8 | National High-tech Research Program (863 Program) | Key Materials and System Integration of Magnesium Alloy Engine | 2009.08-2011.12 | 9.07 million CNY | 6/17 people |
+| 7 | Shanghai Science and Technology Commission | Shanghai Magnesium Materials and Applied Engineering Technology Research Center | 2009.09-2011.08 | 2 million CNY | 8/16 people |
+| 6 | National Defense Fund Project | Research on New High Strength Heat Resistant Magnesium Alloy | 2011.01-2015.12 | 2 million CNY | 10/18 people |
+| 5 | Shanghai Science and Technology Commission | Research on Surface Deformation Strengthening of Magnesium Alloys | 2006.10-2008.09 | 200,000 CNY | 3/7 people |
+| 4 | Shanghai Automotive Industry Science and Technology Development Foundation | Application of Magnesium Alloy in New Energy Vehicles and Development of Manufacturing Process | 2008.12-2010.09 | 400,000 CNY | 8/17 people |
+| 3 | National Defense Science, Technology and Industry Committee | High-strength rare earth magnesium alloy and its precision forming | 2006.01-2009.12 | 2.4 million CNY | 4/13 people |
+| 2 | Shanghai Science and Technology Commission | Research on Backlog Casting Technology of High Strength Magnesium Alloy and Its Typical Auto Parts | 2004.10-2006.09 | 5 million CNY | 6/10 people |
+| 1 | Key projects of international scientific and technological cooperation | Research on high-strength and high-toughness casting magnesium alloy and its auto parts forming technicians | 2004.06-2006.05 | 6.24 million C'N'Y | 5/9 people |
