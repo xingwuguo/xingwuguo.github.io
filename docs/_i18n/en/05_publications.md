@@ -19,7 +19,7 @@
 
 [14]. Jiachen Guo, Wenbin Xu, Zhichen Zhang, Lewen Nie, Leichao Gong, Ji Dong, Xingwu Guo*, **"Preparation of high infrared emissivity and electrical conductivity coating on magnesium alloy"**. Surface Technology, 3(26), 2017, 47-52. (In Chinese)
 
-[13]. Jiacheng Guo, Xingwu Guo∗, Wenbin Xu, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding. **"A Zn-Ni coating with both high electrical conductivity and infrared emissivity prepared by hydrogen evolution method"**. Applied Surface Science 402 (2017) 92–98.
+[13]. Jiacheng Guo, Xingwu Guo*, Wenbin Xu, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding. **"A Zn-Ni coating with both high electrical conductivity and infrared emissivity prepared by hydrogen evolution method"**. Applied Surface Science 402 (2017) 92–98.
 
 [12]. Jiacheng Guo, Xingwu Guo*, Shaohua Wang, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding. **"Effects of glycine and current density on the mechanism of electrodeposition, composition and properties of Ni-Mn films prepared in ionic liquid"**, Applied Surface Science, Volume 365, 1 March 2016, Pages 31–37. 
 
