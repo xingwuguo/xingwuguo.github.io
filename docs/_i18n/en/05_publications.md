@@ -1,7 +1,7 @@
 #### Published Journals
-[23]. Chenjing Gao, Xingwu Guo*, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, and Wenjiang Ding, **"Structure Design and Performance Research of WO3 Hydrogen Gasochromic Film Prepared by Solvothermal Synthesis Assisted with Electrodeposition of Seed Layer"**, Adv. Mater. Interfaces (2022), 2101355.
+[23]. Chenjing Gao, Xingwu Guo*, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, and Wenjiang Ding, **"Structure Design and Performance Research of WO3 Hydrogen Gasochromic Film Prepared by Solvothermal Synthesis Assisted with Electrodeposition of Seed Layer"**, Advacned Materials Interfaces (2022), 2101355.
 
-[22]. Lewen Nie, Xingwu Guo*, Chenjing Gao, Xuan Wu, Juan Chen, and Liming Peng, **"Optical H2-sensing properties of ordered porous WO3 films prepared by colloidal template method"**, J Mater Sci: Mater Electron (2022) 33:1604–1617.
+[22]. Lewen Nie, Xingwu Guo*, Chenjing Gao, Xuan Wu, Juan Chen, and Liming Peng, **"Optical H2-sensing properties of ordered porous WO3 films prepared by colloidal template method"**, Journal of Materials Science: Materials in Electronics (2022) 33:1604–1617.
 
 [21]. Lewen Nie, Xingwu Guo*, Chenjing Gao, Xuan Wu, Juan Chen, Liming Peng, **"Fabrication and optical hydrogen gas sensing property of hierarchical WO3 Porous/Nanowires film"**, Materials Letters 314 (2022) 131805.
 
