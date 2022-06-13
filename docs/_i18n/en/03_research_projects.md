@@ -22,13 +22,13 @@
 
 #### Projects as Major Member
 
-| | Project Source | Project Name | Start and End Years | Project Funds | Ranking |
-| -- | ----------------------- | ---------------------- ----------------------------------- | -------------- --------------- | ------------- | -- |
-| 8 | National High-tech Research Program (863 Program) | Key Materials and System Integration of Magnesium Alloy Engine | 2009.08-2011.12 | 9.07 million CNY | 6/17 people |
-| 7 | Shanghai Science and Technology Commission | Shanghai Magnesium Materials and Applied Engineering Technology Research Center | 2009.09-2011.08 | 2 million CNY | 8/16 people |
-| 6 | National Defense Fund Project | Research on New High Strength Heat Resistant Magnesium Alloy | 2011.01-2015.12 | 2 million CNY | 10/18 people |
-| 5 | Shanghai Science and Technology Commission | Research on Surface Deformation Strengthening of Magnesium Alloys | 2006.10-2008.09 | 200,000 CNY | 3/7 people |
-| 4 | Shanghai Automotive Industry Science and Technology Development Foundation | Application of Magnesium Alloy in New Energy Vehicles and Development of Manufacturing Process | 2008.12-2010.09 | 400,000 CNY | 8/17 people |
-| 3 | National Defense Science, Technology and Industry Committee | High-Strength Rare Earth Magnesium Alloy and Its Precision Forming | 2006.01-2009.12 | 2.4 million CNY | 4/13 people |
-| 2 | Shanghai Science and Technology Commission | Research on Squeeze Casting Technology of High Strength Magnesium Alloy and Its Typical Auto Parts | 2004.10-2006.09 | 5 million CNY | 6/10 people |
-| 1 | Key projects of international scientific and technological cooperation | Research on High-Strength and High-Toughness Casting Magnesium Alloy and Its Auto parts Forming Technicians | 2004.06-2006.05 | 6.24 million C'N'Y | 5/9 people |
+| | Project Source | Project Name | Start and End Years | Project Funds |
+| -- | ----------------------- | ---------------------- ----------------------------------- | -------------- --------------- | ------------- |
+| 8 | National High-tech Research Program (863 Program) | Key Materials and System Integration of Magnesium Alloy Engine | 2009.08-2011.12 | 9.07 million CNY |
+| 7 | Shanghai Science and Technology Commission | Shanghai Magnesium Materials and Applied Engineering Technology Research Center | 2009.09-2011.08 | 2 million CNY |
+| 6 | National Defense Fund Project | Research on New High Strength Heat Resistant Magnesium Alloy | 2011.01-2015.12 | 2 million CNY |
+| 5 | Shanghai Science and Technology Commission | Research on Surface Deformation Strengthening of Magnesium Alloys | 2006.10-2008.09 | 200,000 CNY |
+| 4 | Shanghai Automotive Industry Science and Technology Development Foundation | Application of Magnesium Alloy in New Energy Vehicles and Development of Manufacturing Process | 2008.12-2010.09 | 400,000 CNY |
+| 3 | National Defense Science, Technology and Industry Committee | High-Strength Rare Earth Magnesium Alloy and Its Precision Forming | 2006.01-2009.12 | 2.4 million CNY |
+| 2 | Shanghai Science and Technology Commission | Research on Squeeze Casting Technology of High Strength Magnesium Alloy and Its Typical Auto Parts | 2004.10-2006.09 | 5 million CNY |
+| 1 | Key projects of international scientific and technological cooperation | Research on High-Strength and High-Toughness Casting Magnesium Alloy and Its Auto parts Forming Technicians | 2004.06-2006.05 | 6.24 million C'N'Y |
