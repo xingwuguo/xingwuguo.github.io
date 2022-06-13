@@ -7,13 +7,13 @@
 
 [20]. Jiacheng Guo, Xingwu Guo, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng, Wenjiang Dinga, **"Effective strategy for improving infrared emissivity of Zn-Ni porous coating"**, Applied Surface Science 485 (2019) 92–100.
 
-[19]. Jiacheng Guo, Xingwu Guo⁎, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng, Wenjiang Ding; **"Influence of sodium dodecyl sulphate on the surface morphology and infrared emissivity of porous Ni film"**. Infrared Physics and Technology 93 (2018) 162–170., Impact Factor: 2.006.
+[19]. Jiacheng Guo, Xingwu Guo*, Jiyong Zeng, Lewen Nie, Jie Dong, Liming Peng, Wenjiang Ding; **"Influence of sodium dodecyl sulphate on the surface morphology and infrared emissivity of porous Ni film"**. Infrared Physics and Technology 93 (2018) 162–170, Impact Factor: 2.006.
 
-[18]. Yu Huang, Yishi Su, Xingwu Guo, Qiang Guo, Qiubao Ouyang*, Guoding Zhang, Di Zhang; **"Fabrication and thermal conductivity of copper coated graphite film/aluminum composites for effective thermal management"**. Journal of Alloys and Compounds 711 (2017) 22~30.
+[18]. Yu Huang, Yishi Su, Xingwu Guo, Qiang Guo, Qiubao Ouyang*, Guoding Zhang, Di Zhang; **"Fabrication and thermal conductivity of copper coated graphite film/aluminum composites for effective thermal management"**. Journal of Alloys and Compounds 711 (2017) 22-30.
 
-[17]. Xingwu Guo*, Jiaehen Guo, Zhichen Zhang, Wenbin Xu, Lewen Nie, Leichao Gong, Liming Peng, Wenjiang Ding. **"New Development Trend of Surface Treatment Technology for Magnesium Alloys"**, Surface Technology, March, 2017,53-65.(In Chinese)
+[17]. Xingwu Guo*, Jiaehen Guo, Zhichen Zhang, Wenbin Xu, Lewen Nie, Leichao Gong, Liming Peng, Wenjiang Ding. **"New Development Trend of Surface Treatment Technology for Magnesium Alloys"**, Surface Technology, March, 2017,53-65. (In Chinese)
 
-[16]. Wenbin Xu, Jiacheng Guo, Zhichen Zhang, Rongyu Zhu, Zhengbo Wang, Haoming Xi, Jian Li, Xingwu Guo*, **"Porous nickel coating with both high infrared radiation rate and high conductivity"**. Functional Materials, 2017,7(48), 07109-07114. (In Chinese)
+[16]. Wenbin Xu, Jiacheng Guo, Zhichen Zhang, Rongyu Zhu, Zhengbo Wang, Haoming Xi, Jian Li, Xingwu Guo*, **"Porous nickel coating with both high infrared radiation rate and high conductivity"**. Functional Materials, 2017, 7(48), 07109-07114. (In Chinese)
 
 [15]. Zhichen Zhang, Jiachen Guo, Wenbin Xu, Lewen Nie, Leichao Gong, Xingwu Guo*, Wenjiang Ding. **"Electrodeposition of Ni-Mn films of high corrosion resistance at room temperature in ionic liquids"**. Surface Technology, 3(26), 2017, 66-71. (In Chinese)
 
@@ -23,9 +23,9 @@
 
 [12]. Jiacheng Guo, Xingwu Guo*, Shaohua Wang, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding. **"Effects of glycine and current density on the mechanism of electrodeposition, composition and properties of Ni-Mn films prepared in ionic liquid"**, Applied Surface Science, Volume 365, 1 March 2016, Pages 31–37. 
 
-[11]. Kai Feng, Xingwu Guo*, Zhuguo Li, Chengwu Yao,Yixiong Wu. **"Investigation of multi-coating process treated magnesium alloy as bipolar plate in polymer electrolyte membrane fuel cell"**. International Journal of Hydrogen Energy 41 (2016) 6020-6028.
+[11]. Kai Feng, Xingwu Guo*, Zhuguo Li, Chengwu Yao, Yixiong Wu. **"Investigation of multi-coating process treated magnesium alloy as bipolar plate in polymer electrolyte membrane fuel cell"**. International Journal of Hydrogen Energy 41 (2016) 6020-6028.
 
-[10]. Xingwu Guo*, Jiacheng Guo, Jie Dong, Shaohua Wang, Jia Gong, Rongyu Zhu, Wenjiang Ding. **"An Electrodeposition Method for Preparing (Cu-Ni) /(Ni-Cu) Multilayers on Magnesium Alloy from Ionic Liquid"**. Advanced Materials,TechConnect Briefs June 14-17, 2015,Wahington DC. Proceedings of the 2015 TechConnect World Innovation Conference & Expo.page456-459. ISBN 978-1-4987-4727-1. 
+[10]. Xingwu Guo*, Jiacheng Guo, Jie Dong, Shaohua Wang, Jia Gong, Rongyu Zhu, Wenjiang Ding. **"An Electrodeposition Method for Preparing (Cu-Ni) /(Ni-Cu) Multilayers on Magnesium Alloy from Ionic Liquid"**. Advanced Materials, TechConnect Briefs June 14-17, 2015, Wahington D.C., Proceedings of the 2015 TechConnect World Innovation Conference & Expo, Pages 456-459, ISBN 978-1-4987-4727-1. 
 
 [9]. Yan Mao, Zhuguo Li, Kai Feng, Xingwu Guo, Zhifeng Zhou, Jie Dong, Yixiong Wu; Preparation, **"characterization and wear behavior of carbon coated magnesium alloy with electroless plating nickel interlayer"**. Applied Surface Science 327 (2015) 100–106.
 
@@ -35,7 +35,7 @@
 
 [6]. Wang, S.; Guo, X.*; Yang, H.; Dai, J.; Zhu, R.; Gong, J.; Peng, L.; Ding, W., **"Electrodeposition mechanism and characterization of Ni-Cu alloy coatings from a eutectic-based ionic liquid"**. Applied Surface Science 2014, 288, 530-536.
 
-[5]. Yang, H.; Guo, Xingwu*.; Chen, X.; Birbilis, N., **"A homogenisation pre-treatment for adherent and corrosion-resistant Ni electroplated coatings on Mg-alloy AZ91D"**. Corrosion Science 2014, 79, 41-49.
+[5]. Yang, H.; Guo, Xingwu*; Chen, X.; Birbilis, N., **"A homogenisation pre-treatment for adherent and corrosion-resistant Ni electroplated coatings on Mg-alloy AZ91D"**. Corrosion Science 2014, 79, 41-49.
 
 [4]. Sun, C.; Guo, X. W.; Wang, S. H.; Guo, J. C.; Ding, W. J.,**"Homogenization pretreatment and electroless Ni-P plating on AZ91D magnesium alloy"**. Transactions of Nonferrous Metals Society of China (English Edition) 2014, 24 (12), 3825-3833.
 
@@ -43,7 +43,7 @@
 
 [2]. Can Sun, Xingwu Guo, Shaohua Wang, Wenjiang Ding. **"Study on new homogenization pretreatment of AZ91D magnesium alloy for electroless Ni-P plating"**; Corrosion Science and Protection Technology, Vol.26 No.4; Jul. 2014. 295-300. (In Chinese).
 
-[1]. Wang, . S.; Guo, X. W.; Li, X. D.; Ge, D. Y., **"Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology"**. Materials 2014, 7 (5), 3533-3546.
+[1]. Wang, X. S.; Guo, X. W.; Li, X. D.; Ge, D. Y., **"Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology"**. Materials 2014, 7 (5), 3533-3546.
 
 
 #### Monographs, Translations, and Textbooks
