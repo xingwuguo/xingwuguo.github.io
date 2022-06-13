@@ -9,7 +9,7 @@
 | 13 | National Natural Science Foundation of China | Applied Fundamental Research on Electrodeposition of Cu/Ni-Cu Nano-Multilayer Films in Single-bath Ionic Liquid on Mg-Al Alloy Surface (51371116) | 2013.09-2017.12 | 750,000 CNY |
 | 12 | Technology Innovation Fund of Aerospace Advanced Technology Joint Research Center | Research on Surface Treatment Technology of Magnesium-Based Alloys with High Infrared Emissivity and High Conductivity (USCAST2013-23) | 2014.01-2015.12 | 500,000 CNY |
 | 11 | National Commercial Aircraft Manufacturing Process Technology Research Center Innovation Fund Project | Ion-Exchange Membrane Electrolytic Cell for Micro-Arc Oxidation of Aluminum Alloy and Its Oxidation Technology (SAMC11-JS-07-223) | 2011.01-2012.09 | 300,000 CNY |
-| 10 | General Motors (GM) | Alloy and Process Development for Cast Magnesium Wheels | 2011.7.1 to 2013.6.30 | 50,000 USD |
+| 10 | General Motors (GM) | Alloy and Process Development for Cast Magnesium Wheels | 2011.7.1-2013.6.30 | 50,000 USD |
 | 9 | Huawei Technologies Co., Ltd. | Cooperation Project for Corrosion Protection of Magnesium Alloy in Class B and Class C Environment| 2009.12-2011.12 | 350,000 CNY |
 8 | 2008 Technical Standards Project of Shanghai Science and Technology Innovation Action Plan | Research on Anodizing Technology Standards for Adhesive Surface of Magnesium Alloy Parts for Aerospace Satellites (08DZ0501900) | 2008.09-2010.09 | 200,000 CNY |
 | 7 | Shanghai Jiaotong University - Minhang District School Science and Technology Cooperation Project | Research and Development of Key Technologies for Lightweight and High Strength Magnesium Alloy Walkers for Decoration | 2008.09-2009.10 | 60,000 CNY |

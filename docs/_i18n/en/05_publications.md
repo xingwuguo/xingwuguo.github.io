@@ -11,7 +11,7 @@
 
 [18]. Yu Huang, Yishi Su, Xingwu Guo, Qiang Guo, Qiubao Ouyang*, Guoding Zhang, Di Zhang; **"Fabrication and thermal conductivity of copper coated graphite film/aluminum composites for effective thermal management"**. Journal of Alloys and Compounds 711 (2017) 22-30.
 
-[17]. Xingwu Guo*, Jiaehen Guo, Zhichen Zhang, Wenbin Xu, Lewen Nie, Leichao Gong, Liming Peng, Wenjiang Ding. **"New Development Trend of Surface Treatment Technology for Magnesium Alloys"**, Surface Technology, March, 2017,53-65. (In Chinese)
+[17]. Xingwu Guo*, Jiaehen Guo, Zhichen Zhang, Wenbin Xu, Lewen Nie, Leichao Gong, Liming Peng, Wenjiang Ding. **"New Development Trend of Surface Treatment Technology for Magnesium Alloys"**, Surface Technology, March, 2017, 53-65. (In Chinese)
 
 [16]. Wenbin Xu, Jiacheng Guo, Zhichen Zhang, Rongyu Zhu, Zhengbo Wang, Haoming Xi, Jian Li, Xingwu Guo*, **"Porous nickel coating with both high infrared radiation rate and high conductivity"**. Functional Materials, 2017, 7(48), 07109-07114. (In Chinese)
 
