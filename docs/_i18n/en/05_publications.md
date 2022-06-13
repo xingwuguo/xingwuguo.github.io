@@ -25,7 +25,7 @@
 
 [11]. Kai Feng, Xingwu Guo*, Zhuguo Li, Chengwu Yao, Yixiong Wu. **"Investigation of multi-coating process treated magnesium alloy as bipolar plate in polymer electrolyte membrane fuel cell"**. International Journal of Hydrogen Energy 41 (2016) 6020-6028.
 
-[10]. Xingwu Guo*, Jiacheng Guo, Jie Dong, Shaohua Wang, Jia Gong, Rongyu Zhu, Wenjiang Ding. **"An Electrodeposition Method for Preparing (Cu-Ni) /(Ni-Cu) Multilayers on Magnesium Alloy from Ionic Liquid"**. Advanced Materials, TechConnect Briefs June 14-17, 2015, Wahington D.C., Proceedings of the 2015 TechConnect World Innovation Conference & Expo, Pages 456-459, ISBN 978-1-4987-4727-1. 
+[10]. Xingwu Guo*, Jiacheng Guo, Jie Dong, Shaohua Wang, Jia Gong, Rongyu Zhu, Wenjiang Ding. **"An Electrodeposition Method for Preparing (Cu-Ni) /(Ni-Cu) Multilayers on Magnesium Alloy from Ionic Liquid"**. Advanced Materials, TechConnect Briefs June 14-17, 2015, Washington D.C., Proceedings of the 2015 TechConnect World Innovation Conference & Expo, Pages 456-459, ISBN 978-1-4987-4727-1. 
 
 [9]. Yan Mao, Zhuguo Li, Kai Feng, Xingwu Guo, Zhifeng Zhou, Jie Dong, Yixiong Wu; Preparation, **"characterization and wear behavior of carbon coated magnesium alloy with electroless plating nickel interlayer"**. Applied Surface Science 327 (2015) 100–106.
 
