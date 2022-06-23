@@ -49,8 +49,8 @@
 #### Monographs, Translations, and Textbooks
 [4]. Xingwu Guo, Chief Editor, Peng Zhang and Han Chen, Associate Editor, Materials Chemistry, Shanghai Jiao Tong University Press, 2022, ISBN 978-7-313-26217-2. 
 
-[3]. Xingwu Guo, Chief Editor, Advanced Materials Chemistry, Shanghai Jiao Tong University Press, 2013,ISBN978-7-313-08944-1/TB	A Translation of Materials Science and Engineering Frontier Library.
+[3]. Xingwu Guo, Chief Editor, Advanced Materials Chemistry, Shanghai Jiao Tong University Press, 2013, ISBN 978-7-313-08944-1/TB, A Translation of Materials Science and Engineering Frontier Library.
 
-[2]. Xingwu Guo, Associate Editors-in-Chief, Modern Surface Technology, Shanghai Jiao Tong University Press, ISBN978-7-313-08256-5/TG, 2012, A Series of Textbook for Materials Science and Engineering Discipline.	
+[2]. Xingwu Guo, Associate Editors-in-Chief, Modern Surface Technology, Shanghai Jiao Tong University Press, ISBN 978-7-313-08256-5/TG, 2012, A Series of Textbook for Materials Science and Engineering Discipline.	
 
-[1]. Xingwu Guo, Author of Chapter 11 Corrosion and Protection of Magnesium Alloys, Magnesium Science and Technology, Science Press	ISBN978-7-03-018163-3, 2007, High Performance Structural Materials Technology Series.
+[1]. Xingwu Guo, Author of Chapter 11 Corrosion and Protection of Magnesium Alloys, Magnesium Science and Technology, Science Press	ISBN 978-7-03-018163-3, 2007, High Performance Structural Materials Technology Series.
