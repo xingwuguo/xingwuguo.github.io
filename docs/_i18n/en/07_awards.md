@@ -10,7 +10,7 @@
 9. Second Prize Of National Science and Technology Progress Award (2003), Ranked 8th, Technical name: “Research on flame retardant magnesium alloy and its application key technology”.
 10. Second Prize of National Excellent Academic Achievement Award (2002), Ranked 1st, Technical name: “Research and development status of anodization of magnesium alloy”.
 
-#### Teaching Awards
+#### Teaching Awards:
 1. "Top 10 Most Popular Teachers" of School of Materials Science and Engineering, Shanghai Jiao Tong University. 2012/1/8.
 2. First Prize of 2005-2006 Excellent Teacher of Shanghai Jiao Tong University.
 
