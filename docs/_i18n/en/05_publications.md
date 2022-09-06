@@ -1,4 +1,6 @@
 #### Published Journals
+[24]. Lewen Nie, **Xingwu Guo***, Chenjing Gao, Xuan Wu, Juan Chen, Liming Peng, [**Effect of ZnO Content on the Optical H2 Sensing Properties of Porous Pt/(WO3)1−x(ZnO)x Films**](https://doi.org/10.1007/s11664-022-09882-3), Journal of Electronic Materials, 2022.
+
 [23]. Chenjing Gao, **Xingwu Guo***, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, and Wenjiang Ding, [**Structure Design and Performance Research of WO3 Hydrogen Gasochromic Film Prepared by Solvothermal Synthesis Assisted with Electrodeposition of Seed Layer**](https://doi.org/10.1002/admi.202101355), Advacned Materials Interfaces, Volume 9, Issue 10, 2022, 2101355.
 
 [22]. Lewen Nie, **Xingwu Guo***, Chenjing Gao, Xuan Wu, Juan Chen, and Liming Peng, [**Optical H2-sensing properties of ordered porous WO3 films prepared by colloidal template method**](https://doi.org/10.1007/s10854-022-07694-z), Journal of Materials Science: Materials in Electronics, Volume 33, 2022, Pages 1604–1617.
