@@ -1,4 +1,6 @@
 #### 已发表论文
+[25]. Chenjing Gao, **Xingwu Guo***, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, [A simple and rapid electrodeposition method to prepare seed layer of WOx on the ITO glass for solvothermal synthesis of WO3 nanowires film](https://doi.org/10.1016/j.matlet.2022.133136), Materials Letters, Volume 328, 2022.
+
 [24]. Lewen Nie, **Xingwu Guo***, Chenjing Gao, Xuan Wu, Juan Chen, Liming Peng, [**Effect of ZnO Content on the Optical H2 Sensing Properties of Porous Pt/(WO3)1−x(ZnO)x Films**](https://doi.org/10.1007/s11664-022-09882-3), Journal of Electronic Materials, 2022.
 
 [23]. Chenjing Gao, **Xingwu Guo***, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, and Wenjiang Ding, [**Structure Design and Performance Research of WO3 Hydrogen Gasochromic Film Prepared by Solvothermal Synthesis Assisted with Electrodeposition of Seed Layer**](https://doi.org/10.1002/admi.202101355), Advacned Materials Interfaces, Volume 9, Issue 10, 2022, 2101355.
