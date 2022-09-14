@@ -33,7 +33,7 @@
 
 [9]. Yan Mao, Zhuguo Li, Kai Feng, **Xingwu Guo**, Zhifeng Zhou, Jie Dong, Yixiong Wu, [**Preparation, characterization and wear behavior of carbon coated magnesium alloy with electroless plating nickel interlayer**](https://doi.org/10.1016/j.apsusc.2014.11.151), Applied Surface Science, Volume 327, 2015, Pages 100-106.
 
-[8]. [Yan Mao, Zhuguo Li, Kai Feng, **Xingwu Guo**, Zhifeng Zhou, Yixiong Wu, [**Corrosion behavior of carbon film coated magnesium alloy withelectroless plating nickel interlayer**](https://doi.org/10.1016/j.jmatprotec.2014.12.003), Journal of Materials Processing Technology, Volume 219, May 2015, Pages 42–47.
+[8]. Yan Mao, Zhuguo Li, Kai Feng, **Xingwu Guo**, Zhifeng Zhou, Yixiong Wu, [**Corrosion behavior of carbon film coated magnesium alloy withelectroless plating nickel interlayer**](https://doi.org/10.1016/j.jmatprotec.2014.12.003), Journal of Materials Processing Technology, Volume 219, May 2015, Pages 42–47.
 
 [7]. **Xingwu Guo***, Shaohua Wang, Jia Gong, Jiacheng Guo, Liming Peng, Wenjiang Ding, [**Characterization of highly corrosion-resistant nanocrystalline Ni coating electrodeposited on Mg–Nd–Zn–Zr alloy from a eutectic-based ionic liquid**](https://doi.org/10.1016/j.apsusc.2014.06.060), Applied Surface Science, Volume 313, 2014, Pages 711-719.
 
@@ -43,7 +43,7 @@
 
 [4]. Can SUN, **Xing-wu GUO***, Shao-hua WANG, Jia-cheng GUO, Wen-jiang DING, [**Homogenization pretreatment and electroless Ni–P plating on AZ91D magnesium alloy**](https://doi.org/10.1016/S1003-6326(14)63539-1), Transactions of Nonferrous Metals Society of China, Volume 24, Issue 12, 2014, Pages 3825-3833.
 
-[3]. Shao-hua WANG, **Xing-wu GUO**, Can SUN, Jia GONG, Li-ming PENG, Wen-jiang DING, [**Electrodeposition of Cu coating with high corrosion resistance on Mg−3.0Nd−0.2Zn−0.4Zr magnesium alloy**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=ZYSY201412010&uniplatform=NZKPT&v=MNdSHVbIN3cpQEXUA4XQnz5Ha1EUfb4p72eI1KFg45E29GNtTzGJWpgD744EnyjO), Trans. Nonferrous Met. Soc. China 24(2014) 3810−3817. (In Chinese).
+[3]. Shao-hua WANG, **Xing-wu GUO**, Can SUN, Jia GONG, Li-ming PENG, Wen-jiang DING, [**Electrodeposition of Cu coating with high corrosion resistance on Mg−3.0Nd−0.2Zn−0.4Zr magnesium alloy**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=ZYSY201412010&uniplatform=NZKPT&v=MNdSHVbIN3cpQEXUA4XQnz5Ha1EUfb4p72eI1KFg45E29GNtTzGJWpgD744EnyjO), Transactions of Nonferrous Metals Society of China, Volumn 24, Issue 12, 2014, Pages 3810−3817. (In Chinese).
 
 [2]. Can Sun, **Xingwu Guo**, Shaohua Wang, Wenjiang Ding, [**Study on new homogenization pretreatment of AZ91D magnesium alloy for electroless Ni-P plating**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=ZYSY201412012&uniplatform=NZKPT&v=MNdSHVbIN3dzHo1XTzRvl8UuP-CTO511gyukGNwqCMYy4wbDL3BV2LaTc3IyHGXj), Corrosion Science and Protection Technology, Vol.26 No.4, Jul. 2014. 295-300. (In Chinese).
 
