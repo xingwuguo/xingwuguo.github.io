@@ -15,13 +15,13 @@
 
 [18]. Yu Huang, Yishi Su, **Xingwu Guo**, Qiang Guo, Qiubao Ouyang, Guoding Zhang, Di Zhang, [**Fabrication and thermal conductivity of copper coated graphite film/aluminum composites for effective thermal management**](https://doi.org/10.1016/j.jallcom.2017.03.233), Journal of Alloys and Compounds, Volume 711, 2017, Pages 22-30.
 
-[17]. **Xingwu Guo***, Jiaehen Guo, Zhichen Zhang, Wenbin Xu, Lewen Nie, Leichao Gong, Liming Peng, Wenjiang Ding, [**New Development Trend of Surface Treatment Technology for Magnesium Alloys**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.008), Surface Technology, March 2017, Pages 53-65. (In Chinese)
+[17]. **Xingwu Guo***, Jiacheng Guo, Zhichen Zhang, Wenbin Xu, Lewen Nie, Leichao Gong, Liming Peng, Wenjiang Ding, [**New Development Trend of Surface Treatment Technology for Magnesium Alloys**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.008), Surface Technology, March 2017, Pages 53-65. (In Chinese)
 
 [16]. Wenbin Xu, Jiacheng Guo, Zhichen Zhang, Rongyu Zhu, Zhengbo Wang, Haoming Xi, Jian Li, **Xingwu Guo***, [**Porous nickel coating with both high infrared radiation rate and high conductivity**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=GNCL201707021&uniplatform=NZKPT&v=G14qF9Uy_wkYClUj8KIaiw1aqYfORi1d3-_EuIraCb52DtF7wCw2WsF9fI23j6c5), Functional Materials, 7(48), 2017, Pages 07109-07114. (In Chinese)
 
-[15]. Zhichen Zhang, Jiachen Guo, Wenbin Xu, Lewen Nie, Leichao Gong, **Xingwu Guo***, Wenjiang Ding, [**Electrodeposition of Ni-Mn films of high corrosion resistance at room temperature in ionic liquids**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.009), Surface Technology, 3(26), 2017, Pages 66-71. (In Chinese)
+[15]. Zhichen Zhang, Jiacheng Guo, Wenbin Xu, Lewen Nie, Leichao Gong, **Xingwu Guo***, Wenjiang Ding, [**Electrodeposition of Ni-Mn films of high corrosion resistance at room temperature in ionic liquids**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.009), Surface Technology, 3(26), 2017, Pages 66-71. (In Chinese)
 
-[14]. Jiachen Guo, Wenbin Xu, Zhichen Zhang, Lewen Nie, Leichao Gong, Ji Dong, **Xingwu Guo***, [**Preparation of high infrared emissivity and electrical conductivity coating on magnesium alloy**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.007), Surface Technology, 3(26), 2017, Pages 47-52. (In Chinese)
+[14]. Jiacheng Guo, Wenbin Xu, Zhichen Zhang, Lewen Nie, Leichao Gong, Ji Dong, **Xingwu Guo***, [**Preparation of high infrared emissivity and electrical conductivity coating on magnesium alloy**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.007), Surface Technology, 3(26), 2017, Pages 47-52. (In Chinese)
 
 [13]. Jiacheng Guo, **Xingwu Guo***, Wenbin Xu, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding, [**A Zn-Ni coating with both high electrical conductivity and infrared emissivity prepared by hydrogen evolution method**](https://doi.org/10.1016/j.apsusc.2017.01.053), Applied Surface Science, Volume 402, 2017, Pages 92-98.
 
@@ -72,5 +72,5 @@
 
 1.《镁合金科学与技术》    
 －高性能结构材料技术丛书   
-第11章 镁合金腐蚀与防护　作者  
+第11章 镁合金腐蚀与防护 作者  
 科学出版社出版；2007年1月第一版；ISBN 978-7-03-018163-3  
