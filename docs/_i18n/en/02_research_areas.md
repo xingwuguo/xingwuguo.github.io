@@ -1,11 +1,10 @@
-
-1. Plasma enhanced chemical vapor deposition (PECVD);<br>
-2. Physical vapor deposition (PVD) and ion beam etching (IBE);<br>
-3. Organic/inorganic hybrid coating;<br>
-4. High performance functional polymer coatings (e.g. PI, PU, PTFE, PVDF etc.); <br>
-5. Nano porous functional polymer films; <br> 
-6. Gasochromic films; <br>
-7. Electrochemical Materials Science (EMS); <br>
-8. Ionic liquid electrodeposition; <br>
-9. Surface modification and coating technologies fo light metallic materials (e.g. Al, Mg, Ti); <br>
-10. Corrosion and protection of metallic materials; <br>
+1. Smart Nanostructured Materials based on Self-Assembly of Block Copolymers
+2. Polymer Nanoparticles, Nanowires, Nanotubes and Nanofibers
+3. Organic/Inorganic Hybrid Coatings
+4. Radio Frequency Plasma Polymerization Film and Process
+5. High Performance Functional Organic Coatings (such as PI, PU, PTFE, PEEK etc.) 
+6. Nanoporous WO3 Gasochromic Film: Mechanism, Preparation and Properties
+7. Electrochemical Materials Science (EMS)
+8. Research and Development of Electrodeposition Technology in Ionic Liquid
+9. Corrosion and Protection of Magnesium Alloys
+10. Surface Modification and Coating Technology for Light Metals (such as Al, Mg, Ti)
