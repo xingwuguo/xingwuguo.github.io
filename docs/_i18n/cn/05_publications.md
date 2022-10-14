@@ -73,4 +73,14 @@
 1.《镁合金科学与技术》    
 －高性能结构材料技术丛书   
 第11章 镁合金腐蚀与防护 作者  
-科学出版社出版；2007年1月第一版；ISBN 978-7-03-018163-3  
+科学出版社出版；2007年1月第一版；ISBN 978-7-03-018163-3
+
+
+#### Elsevier 审稿人认证
+1. [Applied Surface Science](../assets/certificates/Certificate_of_Reviewing_APSUSC.pdf)
+2. [Chemical Engineering Journal](../assets/certificates/Certificate_of_Reviewing_CEJ.pdf)
+3. [Ceramics International](../assets/certificates/Certificate_of_Reviewing_CERI.pdf)
+4. [Electrochimica Acta](../assets/certificates/Certificate_of_Reviewing_EA.pdf)
+5. [Infrared Physics & Technology](../assets/certificates/Certificate_of_Reviewing_INFPHY.pdf)
+6. [Materials Letter](../assets/certificates/Certificate_of_Reviewing_MLBLUE.pdf)
+7. [Surface and Coatings Technology](../assets/certificates/Certificate_of_Reviewing_SCT.pdf)

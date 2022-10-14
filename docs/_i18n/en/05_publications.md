@@ -58,3 +58,13 @@
 [2]. Xingwu Guo, Associate Editors-in-Chief, Modern Surface Technology, Shanghai Jiao Tong University Press, 2012, ISBN 978-7-313-08256-5/TG, A Series of Textbook for Materials Science and Engineering Discipline.	
 
 [1]. Xingwu Guo, Author of Chapter 11 Corrosion and Protection of Magnesium Alloys, Magnesium Science and Technology, Science Press, 2007, ISBN 978-7-03-018163-3, High Performance Structural Materials Technology Series.
+
+
+#### Elsevier Reviewer Recognition
+1. [Applied Surface Science](../assets/certificates/Certificate_of_Reviewing_APSUSC.pdf)
+2. [Chemical Engineering Journal](../assets/certificates/Certificate_of_Reviewing_CEJ.pdf)
+3. [Ceramics International](../assets/certificates/Certificate_of_Reviewing_CERI.pdf)
+4. [Electrochimica Acta](../assets/certificates/Certificate_of_Reviewing_EA.pdf)
+5. [Infrared Physics & Technology](../assets/certificates/Certificate_of_Reviewing_INFPHY.pdf)
+6. [Materials Letter](../assets/certificates/Certificate_of_Reviewing_MLBLUE.pdf)
+7. [Surface and Coatings Technology](../assets/certificates/Certificate_of_Reviewing_SCT.pdf)
