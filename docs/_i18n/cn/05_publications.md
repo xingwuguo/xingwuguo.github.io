@@ -1,4 +1,8 @@
 #### 已发表论文
+[27]. Lewen Nie, **Xingwu Guo***, Chenjing Gao, Xuan Wu, Juan Chen, Liming Peng, [**Synthesis and optical hydrogen gas sensing properties of ZnO/WO3 composite films with hierarchical structure**](https://doi.org/10.1016/j.matlet.2022.133428), Materials Letters, Volume 331, 2023, 133428.
+
+[26]. Chenjing Gao, **Xingwu Guo***, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, [**A novel Pt loading method for WO3 gasochromic film and the morphology control of the film by two-step solvothermal synthesis**](https://doi.org/10.1016/j.ijhydene.2022.10.126), International Journal of Hydrogen Energy, 2022.
+
 [25]. Chenjing Gao, **Xingwu Guo***, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, [**A simple and rapid electrodeposition method to prepare seed layer of WOx on the ITO glass for solvothermal synthesis of WO3 nanowires film**](https://doi.org/10.1016/j.matlet.2022.133136), Materials Letters, Volume 328, 2022.
 
 [24]. Lewen Nie, **Xingwu Guo***, Chenjing Gao, Xuan Wu, Juan Chen, Liming Peng, [**Effect of ZnO Content on the Optical H2 Sensing Properties of Porous Pt/(WO3)1−x(ZnO)x Films**](https://doi.org/10.1007/s11664-022-09882-3), Journal of Electronic Materials, 2022.
