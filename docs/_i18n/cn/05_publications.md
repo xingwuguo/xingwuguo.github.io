@@ -21,11 +21,11 @@
 
 [17]. **Xingwu Guo***, Jiacheng Guo, Zhichen Zhang, Wenbin Xu, Lewen Nie, Leichao Gong, Liming Peng, Wenjiang Ding, [**New Development Trend of Surface Treatment Technology for Magnesium Alloys**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.008), Surface Technology, March 2017, Pages 53-65. (In Chinese)
 
-[16]. Wenbin Xu, Jiacheng Guo, Zhichen Zhang, Rongyu Zhu, Zhengbo Wang, Haoming Xi, Jian Li, **Xingwu Guo***, [**Porous nickel coating with both high infrared radiation rate and high conductivity**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=GNCL201707021&uniplatform=NZKPT&v=G14qF9Uy_wkYClUj8KIaiw1aqYfORi1d3-_EuIraCb52DtF7wCw2WsF9fI23j6c5), Functional Materials, 7(48), 2017, Pages 07109-07114. (In Chinese)
+[16]. Wenbin Xu, Jiacheng Guo, Zhichen Zhang, Rongyu Zhu, Zhengbo Wang, Haoming Xi, Jian Li, **Xingwu Guo***, [**Porous nickel coating with both high infrared radiation rate and high conductivity**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=GNCL201707021&uniplatform=NZKPT&v=G14qF9Uy_wkYClUj8KIaiw1aqYfORi1d3-_EuIraCb52DtF7wCw2WsF9fI23j6c5), Journal of Functional Materials, Volume 48, Issue 7, 2017, Pages 109-114. (In Chinese)
 
-[15]. Zhichen Zhang, Jiacheng Guo, Wenbin Xu, Lewen Nie, Leichao Gong, **Xingwu Guo***, Wenjiang Ding, [**Electrodeposition of Ni-Mn films of high corrosion resistance at room temperature in ionic liquids**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.009), Surface Technology, 3(26), 2017, Pages 66-71. (In Chinese)
+[15]. Zhichen Zhang, Jiacheng Guo, Wenbin Xu, Lewen Nie, Leichao Gong, **Xingwu Guo***, Wenjiang Ding, [**Electrodeposition of Ni-Mn films of high corrosion resistance at room temperature in ionic liquids**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.009), Surface Technology, Volume 46, Issue 3, 2017, Pages 66-71. (In Chinese)
 
-[14]. Jiacheng Guo, Wenbin Xu, Zhichen Zhang, Lewen Nie, Leichao Gong, Ji Dong, **Xingwu Guo***, [**Preparation of high infrared emissivity and electrical conductivity coating on magnesium alloy**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.007), Surface Technology, 3(26), 2017, Pages 47-52. (In Chinese)
+[14]. Jiacheng Guo, Wenbin Xu, Zhichen Zhang, Lewen Nie, Leichao Gong, Ji Dong, **Xingwu Guo***, [**Preparation of high infrared emissivity and electrical conductivity coating on magnesium alloy**](https://doi.org/10.16490/j.cnki.issn.1001-3660.2017.03.007), Surface Technology, Volum 46, Issue 3, 2017, Pages 47-52. (In Chinese)
 
 [13]. Jiacheng Guo, **Xingwu Guo***, Wenbin Xu, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding, [**A Zn-Ni coating with both high electrical conductivity and infrared emissivity prepared by hydrogen evolution method**](https://doi.org/10.1016/j.apsusc.2017.01.053), Applied Surface Science, Volume 402, 2017, Pages 92-98.
 
@@ -49,7 +49,7 @@
 
 [3]. Shao-hua WANG, **Xing-wu GUO**, Can SUN, Jia GONG, Li-ming PENG, Wen-jiang DING, [**Electrodeposition of Cu coating with high corrosion resistance on Mg−3.0Nd−0.2Zn−0.4Zr magnesium alloy**](https://doi.org/10.1016/S1003-6326(14)63537-8), Transactions of Nonferrous Metals Society of China, Volume 24, Issue 12, 2014, Pages 3810−3817.
 
-[2]. Can Sun, **Xingwu Guo**, Shaohua Wang, Wenjiang Ding, [**Electroless Ni-P Plating on AZ91D Magnesium Alloy with a New Homogenization Pretreatment**](https://doi.org/10.11903/1002.6495.2013.256), Corrosion Science and Protection Technology, Volume 26, Issue 4, 2014, Pages 295-300 (in Chinese).
+[2]. Can Sun, **Xingwu Guo**, Shaohua Wang, Wenjiang Ding, [**Electroless Ni-P Plating on AZ91D Magnesium Alloy with a New Homogenization Pretreatment**](https://doi.org/10.11903/1002.6495.2013.256), Corrosion Science and Protection Technology, Volume 26, Issue 4, 2014, Pages 295-300. (In Chinese)
 
 [1]. Wang, Xi-Shu, **Xing-Wu Guo**, Xu-Dong Li, and Dong-Yun Ge, [**Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology**](https://doi.org/10.3390/ma7053533), Materials, Volume 7, Issue 5, 2014, Pages 3533-3546.
 
