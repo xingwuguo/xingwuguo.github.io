@@ -47,11 +47,11 @@
 
 [4]. Can SUN, **Xing-wu GUO***, Shao-hua WANG, Jia-cheng GUO, Wen-jiang DING, [**Homogenization pretreatment and electroless Ni–P plating on AZ91D magnesium alloy**](https://doi.org/10.1016/S1003-6326(14)63539-1), Transactions of Nonferrous Metals Society of China, Volume 24, Issue 12, 2014, Pages 3825-3833.
 
-[3]. Shao-hua WANG, **Xing-wu GUO**, Can SUN, Jia GONG, Li-ming PENG, Wen-jiang DING, [**Electrodeposition of Cu coating with high corrosion resistance on Mg−3.0Nd−0.2Zn−0.4Zr magnesium alloy**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=ZYSY201412010&uniplatform=NZKPT&v=MNdSHVbIN3cpQEXUA4XQnz5Ha1EUfb4p72eI1KFg45E29GNtTzGJWpgD744EnyjO), Transactions of Nonferrous Metals Society of China, Volumn 24, Issue 12, 2014, Pages 3810−3817. (In Chinese).
+[3]. Shao-hua WANG, **Xing-wu GUO**, Can SUN, Jia GONG, Li-ming PENG, Wen-jiang DING, [**Electrodeposition of Cu coating with high corrosion resistance on Mg−3.0Nd−0.2Zn−0.4Zr magnesium alloy**](https://doi.org/10.1016/S1003-6326(14)63537-8), Transactions of Nonferrous Metals Society of China, Volume 24, Issue 12, 2014, Pages 3810−3817.
 
-[2]. Can Sun, **Xingwu Guo**, Shaohua Wang, Wenjiang Ding, [**Study on new homogenization pretreatment of AZ91D magnesium alloy for electroless Ni-P plating**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=ZYSY201412012&uniplatform=NZKPT&v=MNdSHVbIN3dzHo1XTzRvl8UuP-CTO511gyukGNwqCMYy4wbDL3BV2LaTc3IyHGXj), Corrosion Science and Protection Technology, Vol.26 No.4, Jul. 2014. 295-300. (In Chinese).
+[2]. Can Sun, **Xingwu Guo**, Shaohua Wang, Wenjiang Ding, [**Electroless Ni-P Plating on AZ91D Magnesium Alloy with a New Homogenization Pretreatment**](https://doi.org/10.11903/1002.6495.2013.256), Corrosion Science and Protection Technology, Volume 26, Issue 4, 2014, Pages 295-300 (in Chinese).
 
-[1]. Wang, Xi-Shu, **Xing-Wu Guo**, Xu-Dong Li, and Dong-Yun Ge, [**Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology**](https://doi.org/10.3390/ma7053533), Materials 2014, 7 (5), 3533-3546.
+[1]. Wang, Xi-Shu, **Xing-Wu Guo**, Xu-Dong Li, and Dong-Yun Ge, [**Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology**](https://doi.org/10.3390/ma7053533), Materials, Volume 7, Issue 5, 2014, Pages 3533-3546.
 
 
 #### Monographs, Translations, and Textbooks
