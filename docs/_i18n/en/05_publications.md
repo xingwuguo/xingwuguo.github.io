@@ -56,28 +56,28 @@
 
 #### Monographs, Translations, and Textbooks
 [4]. *Materials Chemistry*  
-— One of the Materials Science (university level) textbooks planned by the Teaching Steering Committee of the Ministry of Education ([Rank 6 out of 123](../assets/certificates/教育部高等学校材料类专业教学指导委员会规划教材2023年度建设项目遴选结果的通知.pdf))  
-— One of the series of textbooks for Materials Science and Engineering at Shanghai Jiao Tong University  
+— One of the Materials Science (university-level) textbooks planned by the Teaching Steering Committee of the Ministry of Education ([Rank 6 out of 123](../assets/certificates/教育部高等学校材料类专业教学指导委员会规划教材2023年度建设项目遴选结果的通知.pdf))  
+— One of the Series of Textbooks for Materials Science and Engineering at Shanghai Jiao Tong University  
 Chief Editor: Xingwu Guo  
 Associate Editor: Peng Zhang, Han Chen  
-Shanghai Jiao Tong University Press, 2022, ISBN 978-7-313-26217-2
+Shanghai Jiao Tong University Press, February 2022 1st edition, ISBN 978-7-313-26217-2
 
 [3]. *Advanced Materials Chemistry*  
 — A Translation of Materials Science and Engineering Frontier Library  
 — "Twelfth Five-Year" National Key Book Publishing Planning Project  
 Translation: Xingwu Guo, Binyuan Zhao, Xiaobin Hu, Chuanliang Feng, Hongjing Dou, Yating Wu, Yida Deng, Qinglei Liu  
 Chief Editor: Xingwu Guo  
-Shanghai Jiao Tong University Press, 2013, ISBN 978-7-313-08944-1/TB
+Shanghai Jiao Tong University Press, January 2013 1st edition, ISBN 978-7-313-08944-1/TB
 
 [2]. *Modern Surface Technology*  
-— One of the series of textbooks for Materials Science and Engineering at Shanghai Jiao Tong University  
+— One of the Series of Textbooks for Materials Science and Engineering at Shanghai Jiao Tong University  
 Associate Editors-in-Chief: Xingwu Guo  
-Shanghai Jiao Tong University Press, 2012, ISBN 978-7-313-08256-5/TG
+Shanghai Jiao Tong University Press, September 2012 1st edition, ISBN 978-7-313-08256-5/TG
 
 [1]. *Magnesium Science and Technology*  
-— One of the series of books for High Performance Structural Materials Technology  
+— One of the Series of Books for High Performance Structural Materials Technology  
 Author of Chapter 11 *Corrosion and Protection of Magnesium Alloys*  
-Science Press, 2007, ISBN 978-7-03-018163-3
+Science Press, January 2007 1st edition, ISBN 978-7-03-018163-3
 
 
 #### Elsevier Reviewer Recognition
@@ -91,7 +91,7 @@ Science Press, 2007, ISBN 978-7-03-018163-3
 
 
 #### Expert of National Postgraduate Education Evaluation and Monitoring Expert Database
-Appointment letters for reviewing master's thesis and doctoral dissertations in the past three years:
+Appointment letters for reviewing master's theses and doctoral dissertations in the past three years:
 - [2022-2023](../assets/certificates/全国研究生教育评估监测专家库专家聘书2022-2023.pdf)
 - [2021-2022](../assets/certificates/全国研究生教育评估监测专家库专家聘书2021-2022.pdf)
 - [2020-2021](../assets/certificates/全国研究生教育评估监测专家库专家聘书2020-2021.pdf)

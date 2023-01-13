@@ -91,7 +91,7 @@
 7. [Surface and Coatings Technology](../assets/certificates/Certificate_of_Reviewing_SCT.pdf)
 
 
-#### 全国研究生教育评估监测专家库专家认证
+#### 全国研究生教育评估监测专家库专家
 近 3 年硕士、博士学位论文评议聘书：
 - [2022-2023](../assets/certificates/全国研究生教育评估监测专家库专家聘书2022-2023.pdf)
 - [2021-2022](../assets/certificates/全国研究生教育评估监测专家库专家聘书2021-2022.pdf)
