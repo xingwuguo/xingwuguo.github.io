@@ -56,7 +56,8 @@
 
 #### 已出版专著
 4.《材料化学》  
-－材料科学与工程系列教材   
+－材料科学与工程系列教材  
+－教育部高等学校材料类专业教学指导委员会规划教材（排名第6）  
 主　编：郭兴伍   
 副主编：张鹏，陈汉  
 上海交通大学出版社；2022年2月第1版；ISBN 978-7-313-26217-2
@@ -69,7 +70,7 @@
 上海交通大学出版社出版；2013年1月第一版；ISBN 978-7-313-08944-1/TB
 
 2.《现代表面工程》  
-－材料科学与工程学科系列教材  
+－材料科学与工程系列教材  
 主　编：钱苗根  
 副主编：郭兴伍  
 上海交通大学出版社出版；2012年9月第一版；ISBN 978-7-313-08256-5/TG
@@ -88,3 +89,10 @@
 5. [Infrared Physics & Technology](../assets/certificates/Certificate_of_Reviewing_INFPHY.pdf)
 6. [Materials Letter](../assets/certificates/Certificate_of_Reviewing_MLBLUE.pdf)
 7. [Surface and Coatings Technology](../assets/certificates/Certificate_of_Reviewing_SCT.pdf)
+
+
+#### 全国研究生教育评估监测专家库专家认证
+近 3 年硕士、博士学位论文评议聘书：
+- [2022-2023](../assets/certificates/全国研究生教育评估监测专家库专家聘书2022-2023.pdf)
+- [2021-2022](../assets/certificates/全国研究生教育评估监测专家库专家聘书2021-2022.pdf)
+- [2020-2021](../assets/certificates/全国研究生教育评估监测专家库专家聘书2020-2021.pdf)
