@@ -2,7 +2,7 @@
 
 |    | Project Source | Project Name | Start and End Years | Project Funds |
 | -- | ----------------------- | ---------------------- ----------------------------------- | -------------- --------------- | ------------- | -- |
-| 17 | Ai Lifu (Shenzhen) Electronics Co., Ltd. | Research and Development on Single-sided Electroplating and Coating Process of Automobile Sensor| 2021.6- 2022.6 | 950,000 CNY | 
+| 17 | Aleph (Shenzhen) Electronics Co., Ltd. | Research and Development on Single-sided Electroplating and Coating Process of Automobile Sensor| 2021.6- 2022.6 | 950,000 CNY | 
 | 16 | National Defense Fund Project | Research on Surface Treatment and Bonding Technology of Magnesium Alloy| 2019.11-2020.6 | 500,000 CNY | 
 | 15 | Minhang District Science and Technology Project | Research and Development of New Technology for High-Speed Self-Piercing Riveting of Magnesium/Steel Parts (2017MH358) | 2017.9.2-2019.9.20 | 100,000 CNY |
 | 14 | National Key R&D Program | Production Technology of High-Performance Magnesium/Aluminum Alloy Castings; Sub-Project: Corrosion and Protection of Magnesium/Aluminum and Steel Connection Parts | 2016.7.1-2020.6.30 | 800,000 CNY |
