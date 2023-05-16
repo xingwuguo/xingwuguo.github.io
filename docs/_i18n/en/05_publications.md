@@ -1,4 +1,6 @@
 #### Published Journals
+[28]. Chenjing Gao, **Xingwu Guo***, Xuan Wu, Li-Ming Peng, and Juan Chen, [**Characterization and Modeling of WO3 Nanowires Synthesized via the Solvothermal Method: A Proposed 8-Pointed Star Prism Structure**](https://doi.org/10.1021/acs.cgd.3c00182), Crystal Growth & Design, 2023, Pages 1528-7483.
+
 [27]. Lewen Nie, **Xingwu Guo***, Chenjing Gao, Xuan Wu, Juan Chen, Liming Peng, [**Synthesis and optical hydrogen gas sensing properties of ZnO/WO3 composite films with hierarchical structure**](https://doi.org/10.1016/j.matlet.2022.133428), Materials Letters, Volume 331, 2023, 133428.
 
 [26]. Chenjing Gao, **Xingwu Guo***, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, [**A novel Pt loading method for WO3 gasochromic film and the morphology control of the film by two-step solvothermal synthesis**](https://doi.org/10.1016/j.ijhydene.2022.10.126), International Journal of Hydrogen Energy, 2022.
