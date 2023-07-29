@@ -31,7 +31,7 @@
 
 [13]. Jiacheng Guo, **Xingwu Guo***, Wenbin Xu, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding, [**A Zn-Ni coating with both high electrical conductivity and infrared emissivity prepared by hydrogen evolution method**](https://doi.org/10.1016/j.apsusc.2017.01.053), Applied Surface Science, Volume 402, 2017, Pages 92-98.
 
-[12]. Jiacheng Guo, **Xingwu Guo***, Shaohua Wang, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding, [**'Effects of glycine and current density on the mechanism of electrodeposition, composition and properties of Ni–Mn films prepared in ionic liquid**](https://doi.org/10.1016/j.apsusc.2015.12.248), Applied Surface Science, Volume 365, 2016, Pages 31-37.
+[12]. Jiacheng Guo, **Xingwu Guo***, Shaohua Wang, Zhicheng Zhang, Jie Dong, Liming Peng, Wenjiang Ding, [**Effects of glycine and current density on the mechanism of electrodeposition, composition and properties of Ni–Mn films prepared in ionic liquid**](https://doi.org/10.1016/j.apsusc.2015.12.248), Applied Surface Science, Volume 365, 2016, Pages 31-37.
 
 [11]. Kai Feng, **Xingwu Guo***, Zhuguo Li, Chengwu Yao, Yixiong Wu, [**Investigation of multi-coating process treated magnesium alloy as bipolar plate in polymer electrolyte membrane fuel cell**](https://doi.org/10.1016/j.ijhydene.2016.02.147), International Journal of Hydrogen Energy, Volume 41, Issue 14, 2016, Pages 6020-6028.
 
