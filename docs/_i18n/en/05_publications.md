@@ -1,4 +1,6 @@
 #### Published Journals
+[29]. Xuan Wu, **Xingwu Guo***, Chenjing Gao, Lewen Nie, Liming Peng, and Juan Chen, [**Block copolymer-templated gasochromic WO3 thin films with uniform mesopores for fast optical hydrogen sensing**](https://doi.org/10.1016/j.ijhydene.2023.12.063), International Journal of Hydrogen Energy, Volume 53, 2024, Pages 184-192.
+
 [28]. Chenjing Gao, **Xingwu Guo***, Xuan Wu, Li-Ming Peng, and Juan Chen, [**Characterization and Modeling of WO3 Nanowires Synthesized via the Solvothermal Method: A Proposed 8-Pointed Star Prism Structure**](https://doi.org/10.1021/acs.cgd.3c00182), Crystal Growth & Design, 2023, Pages 1528-7483.
 
 [27]. Lewen Nie, **Xingwu Guo***, Chenjing Gao, Xuan Wu, Juan Chen, Liming Peng, [**Synthesis and optical hydrogen gas sensing properties of ZnO/WO3 composite films with hierarchical structure**](https://doi.org/10.1016/j.matlet.2022.133428), Materials Letters, Volume 331, 2023, 133428.
