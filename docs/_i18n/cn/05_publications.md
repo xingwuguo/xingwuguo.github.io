@@ -41,7 +41,7 @@
 
 [9]. Yan Mao, Zhuguo Li*, Kai Feng*, **Xingwu Guo**, Zhifeng Zhou, Jie Dong, Yixiong Wu, [**Preparation, characterization and wear behavior of carbon coated magnesium alloy with electroless plating nickel interlayer**](https://doi.org/10.1016/j.apsusc.2014.11.151), Applied Surface Science, Volume 327, 2015, Pages 100-106.
 
-[8]. Yan Mao, Zhuguo Li, Kai Feng, **Xingwu Guo**, Zhifeng Zhou, Yixiong Wu, [**Corrosion behavior of carbon film coated magnesium alloy withelectroless plating nickel interlayer**](https://doi.org/10.1016/j.jmatprotec.2014.12.003), Journal of Materials Processing Technology, Volume 219, May 2015, Pages 42–47.
+[8]. Yan Mao, Zhuguo Li*, Kai Feng*, **Xingwu Guo**, Zhifeng Zhou, Yixiong Wu, [**Corrosion behavior of carbon film coated magnesium alloy withelectroless plating nickel interlayer**](https://doi.org/10.1016/j.jmatprotec.2014.12.003), Journal of Materials Processing Technology, Volume 219, May 2015, Pages 42–47.
 
 [7]. **Xingwu Guo***, Shaohua Wang, Jia Gong, Jiacheng Guo, Liming Peng, Wenjiang Ding, [**Characterization of highly corrosion-resistant nanocrystalline Ni coating electrodeposited on Mg–Nd–Zn–Zr alloy from a eutectic-based ionic liquid**](https://doi.org/10.1016/j.apsusc.2014.06.060), Applied Surface Science, Volume 313, 2014, Pages 711-719.
 
