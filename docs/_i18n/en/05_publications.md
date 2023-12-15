@@ -55,7 +55,7 @@
 
 [2]. Can Sun, **Xingwu Guo**, Shaohua Wang, Wenjiang Ding, [**Electroless Ni-P Plating on AZ91D Magnesium Alloy with a New Homogenization Pretreatment**](https://doi.org/10.11903/1002.6495.2013.256), Corrosion Science and Protection Technology, Volume 26, Issue 4, 2014, Pages 295-300. (In Chinese)
 
-[1]. Wang, Xi-Shu\*, **Xing-Wu Guo**, Xu-Dong Li, Dong-Yun Ge, [**Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology**](https://doi.org/10.3390/ma7053533), Materials, Volume 7, Issue 5, 2014, Pages 3533-3546.
+[1]. Xi-Shu Wang\*, **Xing-Wu Guo**, Xu-Dong Li, Dong-Yun Ge, [**Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology**](https://doi.org/10.3390/ma7053533), Materials, Volume 7, Issue 5, 2014, Pages 3533-3546.
 
 
 #### Monographs, Translations, and Textbooks
