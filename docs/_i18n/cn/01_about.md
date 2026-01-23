@@ -12,10 +12,10 @@ img {
 }
 </style>
 
-<img src="../assets/images/电化学工作站.jpg" alt="" width="260" height="200">
-<img src="../assets/images/电镀电源.jpg" alt="" width="260" height="200">
-<img src="../assets/images/紫外激光刻蚀机.jpg" alt="" width="260" height="200">
-<img src="../assets/images/PVD.png" alt="" width="260" height="200">
+<img src="../assets/images/electrochemical-workstation.jpg" alt="用于表面科学研究的先进电化学工作站" width="260" height="200" loading="lazy" decoding="async">
+<img src="../assets/images/electroplating-power-supply.jpg" alt="用于薄膜技术的高精度电镀电源" width="260" height="200" loading="lazy" decoding="async">
+<img src="../assets/images/uv-laser-etching-machine.jpg" alt="用于微纳加工的紫外激光刻蚀机" width="260" height="200" loading="lazy" decoding="async">
+<img src="../assets/images/pvd-equipment.png" alt="用于薄膜涂层的 PVD（物理气相沉积）设备" width="260" height="200" loading="lazy" decoding="async">
 
 **相关资源链接：**
 1. [上海交通大学材料科学与工程学院](https://smse.sjtu.edu.cn/)
