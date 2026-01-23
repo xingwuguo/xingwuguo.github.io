@@ -25,6 +25,15 @@ author:
   name: 郭兴伍 Xingwu Guo
   email: xingwuguo@sjtu.edu.cn
 
+# Google Analytics (GA4)
+google_analytics: G-YXCBMGS22L
+
+# Baidu Map AK (JavaScript API)
+baidu_map_ak: uIHBZYjTr7DMnFt1OddGzZ0iGBsOQQuZ
+
+sass:
+  quiet_deps: true
+
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
@@ -93,6 +102,7 @@ plugins:
   - jekyll-multiple-languages-plugin
   - jekyll-seo-tag
   - jekyll-sitemap
+
 
 languages: ["cn", "en"]
 language_names:
