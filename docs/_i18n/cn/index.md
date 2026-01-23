@@ -1,13 +1,13 @@
 <!-- <center><font color="blue" size="5">表面科学与薄膜技术期刊</font></center>   
 
-<img src="../assets/images/appliedsurfacescience.gif" alt="" width="260" height="200">
-<img src="../assets/images/surfacescience.jpeg" alt="" width="260" height="200">
-<img src="../assets/images/surfacescience1.jpeg" alt="" width="260" height="200">
-<img src="../assets/images/thinsolidfilm.jpeg" alt="" width="260" height="200">
-<img src="../assets/images/surfaceandcoatingstechnology.jpeg" alt="" width="260" height="200">
-<img src="../assets/images/sol-gel.jpeg" alt="" width="260" height="200">
-<img src="../assets/images/surfacescienceandcatalysis.jpeg" alt="" width="260" height="200">
-<img src="../assets/images/advanced-functional-materials.jpeg" alt="" width="260" height="200"> -->
+<img src="../assets/images/applied-surface-science.gif" alt="Applied Surface Science Journal" width="260" height="200">
+<img src="../assets/images/surface-science.jpg" alt="Surface Science Journal" width="260" height="200">
+<img src="../assets/images/surface-science-journal.jpg" alt="Surface Science Reports Journal" width="260" height="200">
+<img src="../assets/images/thin-solid-films.jpg" alt="Thin Solid Films Journal" width="260" height="200">
+<img src="../assets/images/surface-coatings-technology.jpg" alt="Surface and Coatings Technology Journal" width="260" height="200">
+<img src="../assets/images/sol-gel-science.jpg" alt="Journal of Sol-Gel Science and Technology" width="260" height="200">
+<img src="../assets/images/surface-science-catalysis.jpg" alt="Studies in Surface Science and Catalysis Journal" width="260" height="200">
+<img src="../assets/images/advanced-functional-materials.jpg" alt="Advanced Functional Materials Journal" width="260" height="200"> -->
 
 <style>
 img.full-page-image {
@@ -18,4 +18,4 @@ img.full-page-image {
 }
 </style>
 
-<img src="../assets/images/主页照片gxwphoto.jpg" alt="Full Page Image" class="full-page-image">
+<img src="../assets/images/lab-hero-image.jpg" alt="表面科学与薄膜技术实验室 - 实验室科研设施与环境" class="full-page-image" decoding="async" fetchpriority="high">

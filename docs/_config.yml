@@ -34,9 +34,7 @@ baidu_map_ak: uIHBZYjTr7DMnFt1OddGzZ0iGBsOQQuZ
 sass:
   quiet_deps: true
 
-# Write an awesome description for your new site here. You can edit this
-# line in _config.yml. It will appear in your document head meta (for
-# Google search results) and in your feed.xml site description.
+# Site Descriptions (used for SEO and page metadata)
 _description: 
   cn: >-
     镁合金微弧氧化;
@@ -60,8 +58,9 @@ _description:
     Surface Modification; 
     Electrochemistry;
     Corrosion and Protection
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xingwuguo.github.io" # the base hostname &bun protocol for your site, e.g. http://example.com
+url: "https://xingwuguo.github.io" # the base hostname & protocol for your site
 description: >-
               Dr. Xingwu Guo, Surface Science & Film Technology Lab, Light Alloy Net Forming National Engineering Research Center, School of Materials Science and Engineering, Shanghai Jiao Tong University (SJTU)
               郭兴伍 博士, 表面科学与薄膜技术实验室, 轻合金精密成型国家工程研究中心, 材料科学与工程学院, 上海交通大学
@@ -92,7 +91,8 @@ description: >-
               9. Corrosion and Protection of Magnesium Alloys
               10. Surface Modification and Coating Technology for Light Metals (such as Al, Mg, Ti)
               xingwuguo.github.io, GitHub
-# github_username:  xingwuguo
+
+keywords: "Dr. Xingwu Guo, SJTU, Surface Science, Film Technology, Magnesium Anodizing, PEO, PECVD, PVD, Material Science, Corrosion Protection, 上海交通大学, 郭兴伍, 表面科学, 薄膜技术, 镁合金, 微弧氧化"
 
 # Build settings
 theme: minima

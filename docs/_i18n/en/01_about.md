@@ -12,10 +12,10 @@ img {
 }
 </style>
 
-<img src="../assets/images/电化学工作站.jpg" alt="" width="260" height="200">
-<img src="../assets/images/电镀电源.jpg" alt="" width="260" height="200">
-<img src="../assets/images/紫外激光刻蚀机.jpg" alt="" width="260" height="200">
-<img src="../assets/images/PVD.png" alt="" width="260" height="200">
+<img src="../assets/images/electrochemical-workstation.jpg" alt="Advanced Electrochemical Workstation for Surface Science Research" width="260" height="200" loading="lazy" decoding="async">
+<img src="../assets/images/electroplating-power-supply.jpg" alt="High-Precision Electroplating Power Supply for Film Technology" width="260" height="200" loading="lazy" decoding="async">
+<img src="../assets/images/uv-laser-etching-machine.jpg" alt="UV Laser Etching Machine for Micro-Nano Fabrication" width="260" height="200" loading="lazy" decoding="async">
+<img src="../assets/images/pvd-equipment.png" alt="PVD (Physical Vapor Deposition) Equipment for Thin Film Coating" width="260" height="200" loading="lazy" decoding="async">
 
 **Related links:**
 1. [School of Materials Science and Engineering](https://smse.sjtu.edu.cn/)

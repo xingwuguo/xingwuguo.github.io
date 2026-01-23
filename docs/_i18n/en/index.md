@@ -7,4 +7,4 @@ img.full-page-image {
 }
 </style>
 
-<img src="../assets/images/主页照片gxwphoto.jpg" alt="Full Page Image" class="full-page-image">
+<img src="../assets/images/lab-hero-image.jpg" alt="Surface Science & Film Technology Lab - Laboratory Main Research Facility" class="full-page-image" decoding="async" fetchpriority="high">
