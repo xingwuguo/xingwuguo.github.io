@@ -1,12 +1,13 @@
 ---
 ---
-$content-width: 90%;
+
+$content-width: 95%;
 
 @import "minima";
 
 .site-title {
-  font-weight: bold;
-  font-size: 25px;
+  font-weight: 625;
+  font-size: 1.75rem;
 }
 
 .post-title {
@@ -16,4 +17,12 @@ $content-width: 90%;
 
 .translate-button {
   text-align: center;
+}
+
+.site-footer .footer-col p {
+  margin-bottom: 0.5rem;
+}
+
+.site-footer .footer-col {
+  margin-bottom: 0;
 }
