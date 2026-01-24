@@ -1,14 +1,3 @@
-<!-- <center><font color="blue" size="5">表面科学与薄膜技术期刊</font></center>   
-
-<img src="../assets/images/applied-surface-science.gif" alt="Applied Surface Science Journal" width="260" height="200">
-<img src="../assets/images/surface-science.jpg" alt="Surface Science Journal" width="260" height="200">
-<img src="../assets/images/surface-science-journal.jpg" alt="Surface Science Reports Journal" width="260" height="200">
-<img src="../assets/images/thin-solid-films.jpg" alt="Thin Solid Films Journal" width="260" height="200">
-<img src="../assets/images/surface-coatings-technology.jpg" alt="Surface and Coatings Technology Journal" width="260" height="200">
-<img src="../assets/images/sol-gel-science.jpg" alt="Journal of Sol-Gel Science and Technology" width="260" height="200">
-<img src="../assets/images/surface-science-catalysis.jpg" alt="Studies in Surface Science and Catalysis Journal" width="260" height="200">
-<img src="../assets/images/advanced-functional-materials.jpg" alt="Advanced Functional Materials Journal" width="260" height="200"> -->
-
 <style>
 img.full-page-image {
     width: 100%; /* Scale the image to full width */

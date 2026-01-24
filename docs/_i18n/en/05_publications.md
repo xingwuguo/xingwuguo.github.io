@@ -14,7 +14,7 @@ Pages 1405-1414.
 
 [24]. Lewen Nie, **Xingwu Guo\***, Chenjing Gao, Xuan Wu, Juan Chen, Liming Peng, [**Effect of ZnO Content on the Optical H2 Sensing Properties of Porous Pt/(WO3)1−x(ZnO)x Films**](https://doi.org/10.1007/s11664-022-09882-3), Journal of Electronic Materials, 2022.
 
-[23]. Chenjing Gao, **Xingwu Guo\***, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, and Wenjiang Ding, [**Structure Design and Performance Research of WO3 Hydrogen Gasochromic Film Prepared by Solvothermal Synthesis Assisted with Electrodeposition of Seed Layer**](https://doi.org/10.1002/admi.202101355), Advacned Materials Interfaces, Volume 9, Issue 10, 2022, 2101355.
+[23]. Chenjing Gao, **Xingwu Guo\***, Lewen Nie, Xuan Wu, Liming Peng, Juan Chen, and Wenjiang Ding, [**Structure Design and Performance Research of WO3 Hydrogen Gasochromic Film Prepared by Solvothermal Synthesis Assisted with Electrodeposition of Seed Layer**](https://doi.org/10.1002/admi.202101355), Advanced Materials Interfaces, Volume 9, Issue 10, 2022, 2101355.
 
 [22]. Lewen Nie, **Xingwu Guo\***, Chenjing Gao, Xuan Wu, Juan Chen, and Liming Peng, [**Optical H2-sensing properties of ordered porous WO3 films prepared by colloidal template method**](https://doi.org/10.1007/s10854-022-07694-z), Journal of Materials Science: Materials in Electronics, Volume 33, 2022, Pages 1604–1617.
 
@@ -56,7 +56,7 @@ Pages 1405-1414.
 
 [3]. Shao-hua WANG, **Xing-wu GUO\***, Can SUN, Jia GONG, Li-ming PENG, Wen-jiang DING, [**Electrodeposition of Cu coating with high corrosion resistance on Mg−3.0Nd−0.2Zn−0.4Zr magnesium alloy**](https://doi.org/10.1016/S1003-6326(14)63537-8), Transactions of Nonferrous Metals Society of China, Volume 24, Issue 12, 2014, Pages 3810−3817.
 
-[2]. Can Sun, **Xingwu Guo**, Shaohua Wang, Wenjiang Ding, [**Electroless Ni-P Plating on AZ91D Magnesium Alloy with a New Homogenization Pretreatment**](https://doi.org/10.11903/1002.6495.2013.256), Corrosion Science and Protection Technology, Volume 26, Issue 4, 2014, Pages 295-300. (In Chinese)
+[2]. Can Sun, **Xingwu Guo\***, Shaohua Wang, Wenjiang Ding, [**Electroless Ni-P Plating on AZ91D Magnesium Alloy with a New Homogenization Pretreatment**](https://doi.org/10.11903/1002.6495.2013.256), Corrosion Science and Protection Technology, Volume 26, Issue 4, 2014, Pages 295-300. (In Chinese)
 
 [1]. Xi-Shu Wang\*, **Xing-Wu Guo**, Xu-Dong Li, Dong-Yun Ge, [**Improvement on the fatigue performance of 2024-T4 alloy by synergistic coating technology**](https://doi.org/10.3390/ma7053533), Materials, Volume 7, Issue 5, 2014, Pages 3533-3546.
 
@@ -93,7 +93,7 @@ Science Press, January 2007 1st edition, ISBN 978-7-03-018163-3
 3. [Ceramics International](../assets/certificates/Certificate_of_Reviewing_CERI.pdf)
 4. [Electrochimica Acta](../assets/certificates/Certificate_of_Reviewing_EA.pdf)
 5. [Infrared Physics & Technology](../assets/certificates/Certificate_of_Reviewing_INFPHY.pdf)
-6. [Materials Letter](../assets/certificates/Certificate_of_Reviewing_MLBLUE.pdf)
+6. [Materials Letters](../assets/certificates/Certificate_of_Reviewing_MLBLUE.pdf)
 7. [Surface and Coatings Technology](../assets/certificates/Certificate_of_Reviewing_SCT.pdf)
 
 
