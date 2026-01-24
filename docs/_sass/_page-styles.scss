@@ -1,0 +1,179 @@
+// Equipment grid (About page)
+.equipment-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    margin: 0 0 24px 0;
+}
+.equipment-card {
+    background: #fefefe;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.04);
+    transition: all 0.25s ease-out;
+}
+.equipment-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(220, 20, 60, 0.1), 0 8px 24px rgba(0,0,0,0.08);
+}
+.equipment-card img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 0;
+    display: block;
+    background: #f8f8f8;
+}
+.equipment-caption {
+    padding: 14px 16px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #2c3e50;
+    text-align: center;
+    border-top: 3px solid crimson;
+    background: #fafafa;
+}
+
+// Transferable technologies page
+.tech-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin: 30px 0;
+}
+.tech-item {
+    display: flex;
+    flex-direction: column;
+    padding: 28px 24px;
+    border-radius: 6px;
+    background: #fefefe;
+    border: 1px solid rgba(0,0,0,0.08);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.04);
+    text-decoration: none !important;
+    color: #2c3e50 !important;
+    transition: all 0.25s ease-out;
+    position: relative;
+    overflow: hidden;
+    border-top: 4px solid crimson;
+}
+.tech-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(220, 20, 60, 0.15), 0 8px 24px rgba(0,0,0,0.08);
+}
+.tech-item img {
+    border-radius: 4px;
+    max-height: 160px;
+    width: 100%;
+    object-fit: cover;
+    margin: 20px 0;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+}
+.tech-badge {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: crimson;
+    margin-bottom: 14px;
+    display: inline-block;
+    padding: 5px 10px;
+    background: rgba(220, 20, 60, 0.06);
+    border-radius: 4px;
+    align-self: flex-start;
+    border: 1px solid rgba(220, 20, 60, 0.12);
+}
+.tech-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 10px;
+    min-height: 3.5em;
+    display: flex;
+    align-items: center;
+}
+.tech-action {
+    display: flex;
+    align-items: center;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: crimson;
+    margin-top: auto;
+}
+.tech-icon {
+    margin-right: 8px;
+    display: flex;
+    align-items: center;
+}
+.tech-footer {
+    margin-top: 40px;
+    padding: 18px 20px;
+    background: #fafafa;
+    border-left: 3px solid crimson;
+    border-radius: 0 4px 4px 0;
+    font-style: italic;
+    color: #555;
+}
+
+// Success cases page
+.cases-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin: 30px 0;
+}
+.case-card {
+    display: flex;
+    flex-direction: column;
+    padding: 28px 24px;
+    border-radius: 6px;
+    background: #fefefe;
+    border: 1px solid rgba(0,0,0,0.08);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.04);
+    text-decoration: none !important;
+    color: #2c3e50 !important;
+    transition: all 0.25s ease-out;
+    position: relative;
+    overflow: hidden;
+    border-top: 4px solid crimson;
+}
+.case-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(220, 20, 60, 0.15), 0 8px 24px rgba(0,0,0,0.08);
+}
+.case-badge {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: crimson;
+    margin-bottom: 14px;
+    display: inline-block;
+    padding: 5px 10px;
+    background: rgba(220, 20, 60, 0.06);
+    border-radius: 4px;
+    align-self: flex-start;
+    border: 1px solid rgba(220, 20, 60, 0.12);
+}
+.case-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    flex-grow: 1;
+}
+.case-footer {
+    display: flex;
+    align-items: center;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: crimson;
+    margin-top: auto;
+    padding-top: 16px;
+    border-top: 1px solid rgba(0,0,0,0.06);
+}
+.case-icon {
+    margin-right: 8px;
+    display: flex;
+    align-items: center;
+}
