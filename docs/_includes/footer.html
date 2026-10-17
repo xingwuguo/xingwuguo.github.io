@@ -1,13 +1,13 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="{{ site.baseurl }}/"></data>
 
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col">
         {% if site.lang == "cn" %}
-        <p><b>关键词: </b>{{ site._description.cn | escape }}</p>
+        <p><b>关键词: </b>{{ site.footer_keywords.cn | escape }}</p>
         {% else %}
-        <p><b>Keywords: </b>{{ site._description.en | escape }}</p>
+        <p><b>Keywords: </b>{{ site.footer_keywords.en | escape }}</p>
         {% endif %}
         ©{{ 'now' | date: '%Y' }} Xingwu Guo. All Rights Reserved.
       </div>

@@ -6,7 +6,7 @@ Tel: +86-21-54745091 <br/>
 Mobile: +86-137-7427-6195 <br/>
 Email: xingwuguo@sjtu.edu.cn
 
-<script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak={{ site.baidu_map_ak }}"></script>
+<script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak={{ site.baidu_map_access_key }}"></script>
 
 <div style="width:100%; max-width:1000px; height:400px; border:1px solid #ccc; margin-top:15px;" id="container"></div>
 

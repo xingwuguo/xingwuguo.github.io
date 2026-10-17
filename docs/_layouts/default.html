@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "cn" }}">
+{%- assign document_language = page.lang | default: site.lang | default: "cn" -%}
+{%- if document_language == "cn" -%}
+  {%- assign document_language = "zh" -%}
+{%- endif -%}
+<html lang="{{ document_language }}">
 
   {%- include head.html -%}
 

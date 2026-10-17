@@ -11,7 +11,7 @@ Website: [https://xingwuguo.github.io/](https://xingwuguo.github.io/)
 - **Static Site Generator:** [Jekyll](https://jekyllrb.com/) (using the [Minima](https://github.com/jekyll/minima) theme)
 - **Internationalization:** [jekyll-multiple-languages-plugin](https://github.com/untra/jekyll-multiple-languages-plugin)
 - **SEO & Metadata:** [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag), [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
-- **Deployment:** GitHub Actions with `jeffreytse/jekyll-deploy-action`
+- **Deployment:** GitHub Actions builds the site and publishes it with `actions/deploy-pages`
 
 ---
 
@@ -77,8 +77,8 @@ The output will be in `docs/_site/`. Note that `jekyll serve` will override the 
 
 ## Deployment
 
-**Automated Deployment:** 
-Every push to the `xingwuguo` branch triggers a GitHub Actions workflow (`.github/workflows/build-jekyll.yml`). This builds the site with `JEKYLL_ENV=production` and deploys it to the `gh-pages` branch.
+**Automated Deployment:**
+Every push to the `xingwuguo` branch runs `.github/workflows/build-jekyll.yml`. The workflow builds `docs/` with `JEKYLL_ENV=production` and publishes `docs/_site` with the GitHub Pages actions. There is no `gh-pages` branch.
 
 ---
 

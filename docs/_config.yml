@@ -29,14 +29,19 @@ author:
 # Google Analytics (GA4)
 google_analytics: G-YXCBMGS22L
 
-# Baidu Map AK (JavaScript API)
-baidu_map_ak: uIHBZYjTr7DMnFt1OddGzZ0iGBsOQQuZ
+# Baidu Maps JavaScript API access key. The request parameter name is ak.
+baidu_map_access_key: uIHBZYjTr7DMnFt1OddGzZ0iGBsOQQuZ
 
 sass:
   quiet_deps: true
+  # Minima 2.5.2 is loaded with @import so $content-width is set first.
+  # Dart Sass will remove @import in 3.0. Silence the warning until Minima
+  # ships a module we can load with @use.
+  silence_deprecations:
+    - import
 
-# Site Descriptions (used for SEO and page metadata)
-_description: 
+# Keyword lines shown in the footer. The meta description is `description`.
+footer_keywords: 
   cn: >-
     镁合金微弧氧化;
     铝合金快速阳极氧化;
@@ -60,8 +65,10 @@ _description:
     Electrochemistry;
     Corrosion and Protection
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xingwuguo.github.io" # the base hostname & protocol for your site
+# User site. Pages serves this repository at the root only while the
+# account xingwuguo owns it.
+url: "https://xingwuguo.github.io"
+baseurl: ""
 description: >-
   Dr. Xingwu Guo (郭兴伍) - Surface Science & Film Technology Lab at Shanghai Jiao Tong University (SJTU).
   Research in surface modification, thin films, PVD, PECVD, PEO, and corrosion protection of light metals.

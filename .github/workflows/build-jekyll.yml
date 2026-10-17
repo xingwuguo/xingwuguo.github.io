@@ -5,33 +5,48 @@ on:
     branches:
       - xingwuguo
 
+# One Pages deployment at a time. Do not cancel a deployment
+# that has already started.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  build_and_deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      # Use GitHub Actions' cache to cache dependencies on servers
-      - uses: actions/cache@v5
+      # Prebuilt Ruby. Compiling Ruby from source took about 4 minutes.
+      - uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
+          ruby-version: "3.4"
+          bundler-cache: true
+          working-directory: docs
 
-      # Use GitHub Deploy Action to build and deploy to Github
-      - uses: jeffreytse/jekyll-deploy-action@master
+      - name: Build the site
+        working-directory: docs
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --config _config.yml
+
+      - name: Upload the site
+        uses: actions/upload-pages-artifact@v5
         with:
-          provider: 'github'
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ''             # Default is current repository
-          branch: 'gh-pages'        # Default is gh-pages for github provider
-          jekyll_src: './docs'       # Default is root directory key
-          jekyll_cfg: '_config.yml'  # Default is _config.yml
-          jekyll_baseurl: ''         # Default is according to _config.yml
-          bundler_ver: '>=0'         # Default is latest bundler version
-          cname: ''                  # Default is to not use a cname
-          actor: ''                  # Default is the GITHUB_ACTOR
+          path: ./docs/_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

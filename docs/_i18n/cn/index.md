@@ -7,4 +7,4 @@ img.full-page-image {
 }
 </style>
 
-<img src="../assets/images/lab-hero-image.jpg" alt="表面科学与薄膜技术实验室 - 实验室科研设施与环境" class="full-page-image" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/lab-hero-image.jpg' | relative_url }}" alt="表面科学与薄膜技术实验室 - 实验室科研设施与环境" class="full-page-image" decoding="async" fetchpriority="high">
